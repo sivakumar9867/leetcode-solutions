@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-11T04:45:02.078Z",
+  "updatedAt": "2026-11-11T04:45:57.774Z",
   "problems": [
     {
       "frontendId": "67",
@@ -24,6 +24,26 @@
           "path": "solutions/0067-add-binary/0067-add-binary.cpp",
           "sha": "17ba34cc40935190a25bce0bf110c1407c5d588d",
           "lastSyncedAt": "2026-11-11T04:40:31.290Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "solutions/0268-missing-number/",
+      "readmePath": "solutions/0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0268-missing-number.cpp",
+          "path": "solutions/0268-missing-number/0268-missing-number.cpp",
+          "sha": "08d9e5e62f97acda776e2fa3d339e43bccbe4f7f",
+          "lastSyncedAt": "2026-11-11T04:45:57.774Z"
         }
       ]
     },
