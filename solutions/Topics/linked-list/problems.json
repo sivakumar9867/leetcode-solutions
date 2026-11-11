@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-11T04:43:55.357Z",
+  "updatedAt": "2026-11-11T04:44:03.053Z",
   "problems": [
     {
       "frontendId": "19",
@@ -44,6 +44,26 @@
           "path": "solutions/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
           "sha": "71404a0c49818b38892c1417c4738bc41fae78b5",
           "lastSyncedAt": "2026-11-11T04:43:55.357Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "solutions/0141-linked-list-cycle/",
+      "readmePath": "solutions/0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0141-linked-list-cycle.cpp",
+          "path": "solutions/0141-linked-list-cycle/0141-linked-list-cycle.cpp",
+          "sha": "650002481fad6024454e620e3447dc0a3543b5cd",
+          "lastSyncedAt": "2026-11-11T04:44:03.053Z"
         }
       ]
     },
