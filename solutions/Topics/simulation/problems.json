@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-11T04:39:45.369Z",
+  "updatedAt": "2026-11-11T04:39:59.128Z",
   "problems": [
     {
       "frontendId": "258",
@@ -24,6 +24,26 @@
           "path": "solutions/0258-add-digits/0258-add-digits.cpp",
           "sha": "972f496ef502ecf3810d8747fd1d500a3e8041bf",
           "lastSyncedAt": "2026-11-11T04:38:26.596Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "415",
+      "title": "Add Strings",
+      "slug": "add-strings",
+      "problemName": "0415-add-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-strings/",
+      "folderPath": "solutions/0415-add-strings/",
+      "readmePath": "solutions/0415-add-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0415-add-strings.cpp",
+          "path": "solutions/0415-add-strings/0415-add-strings.cpp",
+          "sha": "69d6f6fa77bfc0680c4e96f18daadaae8c30d359",
+          "lastSyncedAt": "2026-11-11T04:39:59.128Z"
         }
       ]
     },
