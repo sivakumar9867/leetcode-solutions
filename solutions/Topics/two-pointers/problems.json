@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-11T06:04:37.303Z",
+  "updatedAt": "2026-11-11T06:05:18.432Z",
   "problems": [
     {
       "frontendId": "15",
@@ -74,8 +74,8 @@
       "problemName": "0026-remove-duplicates-from-sorted-array",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-      "folderPath": "solutions/0026-remove-duplicates-from-sorted-array/",
-      "readmePath": "solutions/0026-remove-duplicates-from-sorted-array/README.md",
+      "folderPath": "solutions/Easy/0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "solutions/Easy/0026-remove-duplicates-from-sorted-array/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -83,7 +83,7 @@
           "filename": "0026-remove-duplicates-from-sorted-array.cpp",
           "path": "solutions/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.cpp",
           "sha": "eb055e035d06e4d765c1047a2ac240b0ecba4b3f",
-          "lastSyncedAt": "2026-11-11T05:49:10.669Z"
+          "lastSyncedAt": "2026-11-11T06:05:18.432Z"
         }
       ]
     },
