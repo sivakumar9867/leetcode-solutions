@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:51:58.159Z",
+  "updatedAt": "2026-11-11T04:52:12.726Z",
   "problems": [
     {
       "frontendId": "1",
@@ -144,6 +144,26 @@
           "path": "solutions/0027-remove-element/0027-remove-element.cpp",
           "sha": "b519f9124ee483389682cb724abd0a91d5916f61",
           "lastSyncedAt": "2026-11-11T04:51:23.595Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "41",
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "problemName": "0041-first-missing-positive",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+      "folderPath": "solutions/0041-first-missing-positive/",
+      "readmePath": "solutions/0041-first-missing-positive/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0041-first-missing-positive.cpp",
+          "path": "solutions/0041-first-missing-positive/0041-first-missing-positive.cpp",
+          "sha": "925479af9a1a2df25536e8638b3aeeb21a9821d4",
+          "lastSyncedAt": "2026-11-11T04:52:12.726Z"
         }
       ]
     },
