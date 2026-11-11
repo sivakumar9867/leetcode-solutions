@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-11T04:41:48.681Z",
+  "updatedAt": "2026-11-11T04:41:55.912Z",
   "problems": [
     {
       "frontendId": "67",
@@ -64,6 +64,26 @@
           "path": "solutions/0645-set-mismatch/0645-set-mismatch.cpp",
           "sha": "8bfa55f6d044c2c7e8cea3be14488231b8f01271",
           "lastSyncedAt": "2026-11-11T04:37:42.467Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1342",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "problemName": "1342-number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+      "folderPath": "solutions/1342-number-of-steps-to-reduce-a-number-to-zero/",
+      "readmePath": "solutions/1342-number-of-steps-to-reduce-a-number-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1342-number-of-steps-to-reduce-a-number-to-zero.cpp",
+          "path": "solutions/1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.cpp",
+          "sha": "ddce043909d9baa8fc2eb2a02c5b849981bf8dad",
+          "lastSyncedAt": "2026-11-11T04:41:55.912Z"
         }
       ]
     },
