@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:35:50.770Z",
+  "updatedAt": "2026-11-11T04:36:21.008Z",
   "problems": [
+    {
+      "frontendId": "1232",
+      "title": "Check If It Is a Straight Line",
+      "slug": "check-if-it-is-a-straight-line",
+      "problemName": "1232-check-if-it-is-a-straight-line",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-it-is-a-straight-line/",
+      "folderPath": "solutions/1232-check-if-it-is-a-straight-line/",
+      "readmePath": "solutions/1232-check-if-it-is-a-straight-line/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1232-check-if-it-is-a-straight-line.cpp",
+          "path": "solutions/1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.cpp",
+          "sha": "757577ec240a19f04fbc0c44f07bc9e0047969a6",
+          "lastSyncedAt": "2026-11-11T04:36:21.008Z"
+        }
+      ]
+    },
     {
       "frontendId": "1991",
       "title": "Find the Middle Index in Array",
