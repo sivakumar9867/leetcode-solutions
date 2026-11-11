@@ -1,25 +1,46 @@
 # LeetCode Solutions
 
-Welcome to my LeetCode journey!
+### Learning, solving, and getting better — one problem at a time.
 
-This repository is where I practice coding, explore different problem-solving approaches, and gradually strengthen my Data Structures and Algorithms skills. Most of my solutions are written in **C++**, and each problem is another opportunity to learn something new and think a little better.
+This repository is a record of my ongoing journey with **Data Structures and Algorithms**. I use LeetCode to strengthen my problem-solving skills, explore different approaches, and turn what I learn into working solutions. Most of my solutions are written in **C++**.
+
+Some problems take a few minutes; others need patience, debugging, and a fresh approach. Each one adds something to the learning process, and this collection grows with every new challenge.
 
 ## What's Inside?
 
-- **Problem-wise Solutions:** Individual folders for problems, organized by their LeetCode number and title.
-- **Topic-wise Practice:** A collection of problems grouped by DSA concepts in the `Topics/` directory.
-- **Progress Dashboard:** My [Solutions Dashboard](solutions/README.md), where I can look back at my practice activity and learning progress.
+- **Problem-wise Solutions** — Individual folders organized by LeetCode problem number and title.
+- **Topic-wise Practice** — A separate collection of problems grouped by DSA concepts in [`solutions/Topics/`](solutions/Topics/).
+- **Progress Dashboard** — An automatically maintained overview of my solved problems, activity, and topic distribution in the [Solutions Dashboard](solutions/README.md).
 
-## My Approach
+## Topics I'm Exploring
 
-I believe consistency matters more than speed. Some problems are easy to solve, while others take more time and multiple attempts. I use each one as a chance to understand the concept, improve my logic, and become a better problem solver.
+My practice covers a broad range of DSA concepts, including:
+
+| Foundations | Problem-solving techniques | Data structures |
+| --- | --- | --- |
+| Arrays and Strings | Binary Search | Hash Tables |
+| Sorting and Searching | Two Pointers | Linked Lists |
+| Mathematics and Number Theory | Sliding Window | Stacks and Queues |
+| Recursion | Prefix Sum | Heaps |
+| Dynamic Programming | Greedy Algorithms | Tries |
+| Bit Manipulation | Divide and Conquer | Matrices |
+
+The [`Topics/`](solutions/Topics/) directory contains the full topic-wise collection, including additional algorithms and concepts.
 
 ## Tech Stack
 
 - **Language:** C++
-- **Platform:** LeetCode
-- **Synchronization:** [LeetHub-Neo](https://github.com/raphaelheinz/LeetHub-Neo)
+- **Practice Platform:** [LeetCode](https://leetcode.com/)
+- **Solution Synchronization:** [LeetHub-Neo](https://github.com/legojeon/LeetHub-Neo)
 
-This repository will continue to grow as I solve more problems, learn new concepts, and take on bigger challenges.
+## How This Repository Grows
 
-**One problem at a time. Always learning, always improving!**
+Solutions are synchronized from LeetCode using LeetHub-Neo. Problem folders and topic-wise organization keep the code easy to browse, while the generated dashboard provides a separate view of practice activity.
+
+## My Approach
+
+I believe consistency matters more than speed. I focus on understanding the problem, learning why a solution works, and improving my logic with every attempt. Progress comes from showing up, staying curious, and being willing to try again.
+
+---
+
+**One problem at a time. Always learning, always improving.**
