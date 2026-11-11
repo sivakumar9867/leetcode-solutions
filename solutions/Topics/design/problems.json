@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-11T05:47:47.072Z",
+  "updatedAt": "2026-11-11T06:03:57.646Z",
   "problems": [
     {
       "frontendId": "707",
@@ -14,8 +14,8 @@
       "problemName": "0707-design-linked-list",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/design-linked-list/",
-      "folderPath": "solutions/0707-design-linked-list/",
-      "readmePath": "solutions/0707-design-linked-list/README.md",
+      "folderPath": "solutions/Medium/0707-design-linked-list/",
+      "readmePath": "solutions/Medium/0707-design-linked-list/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -23,7 +23,7 @@
           "filename": "0707-design-linked-list.cpp",
           "path": "solutions/0707-design-linked-list/0707-design-linked-list.cpp",
           "sha": "7a38e5378edf820a5c11c3ac8c4b1cf36bc77294",
-          "lastSyncedAt": "2026-11-11T05:47:47.072Z"
+          "lastSyncedAt": "2026-11-11T06:03:57.646Z"
         }
       ]
     }
