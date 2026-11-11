@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-11T04:38:26.596Z",
+  "updatedAt": "2026-11-11T04:39:23.875Z",
   "problems": [
     {
       "frontendId": "258",
@@ -24,6 +24,26 @@
           "path": "solutions/0258-add-digits/0258-add-digits.cpp",
           "sha": "972f496ef502ecf3810d8747fd1d500a3e8041bf",
           "lastSyncedAt": "2026-11-11T04:38:26.596Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1441",
+      "title": "Build an Array With Stack Operations",
+      "slug": "build-an-array-with-stack-operations",
+      "problemName": "1441-build-an-array-with-stack-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/build-an-array-with-stack-operations/",
+      "folderPath": "solutions/1441-build-an-array-with-stack-operations/",
+      "readmePath": "solutions/1441-build-an-array-with-stack-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1441-build-an-array-with-stack-operations.cpp",
+          "path": "solutions/1441-build-an-array-with-stack-operations/1441-build-an-array-with-stack-operations.cpp",
+          "sha": "dbfd5181e84d023ed1406152e14497ff8e80e1c8",
+          "lastSyncedAt": "2026-11-11T04:39:23.875Z"
         }
       ]
     },
