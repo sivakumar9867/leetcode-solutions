@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-11T04:53:16.302Z",
+  "updatedAt": "2026-11-11T04:53:55.112Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "solutions/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "481ec355d97085427822e57902da639ea2594e29",
           "lastSyncedAt": "2026-11-11T04:46:42.953Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "solutions/0035-search-insert-position/",
+      "readmePath": "solutions/0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0035-search-insert-position.cpp",
+          "path": "solutions/0035-search-insert-position/0035-search-insert-position.cpp",
+          "sha": "686c69237306774c19c50578164457a00142f88f",
+          "lastSyncedAt": "2026-11-11T04:53:55.112Z"
         }
       ]
     },
