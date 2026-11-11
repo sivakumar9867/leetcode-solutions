@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-11T04:46:52.159Z",
+  "updatedAt": "2026-11-11T04:47:48.519Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "solutions/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp",
           "sha": "0bdd41c14283caeab0df3ed33966d33549a41704",
           "lastSyncedAt": "2026-11-11T04:46:52.159Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "problemName": "0219-contains-duplicate-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "folderPath": "solutions/0219-contains-duplicate-ii/",
+      "readmePath": "solutions/0219-contains-duplicate-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0219-contains-duplicate-ii.cpp",
+          "path": "solutions/0219-contains-duplicate-ii/0219-contains-duplicate-ii.cpp",
+          "sha": "be6c28334925b50e41f7ba7c1341c88942c55ab2",
+          "lastSyncedAt": "2026-11-11T04:47:48.519Z"
         }
       ]
     }
