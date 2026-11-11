@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-11T06:01:22.516Z",
+  "updatedAt": "2026-11-11T06:01:30.843Z",
   "problems": [
     {
       "frontendId": "2",
@@ -174,8 +174,8 @@
       "problemName": "0876-middle-of-the-linked-list",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
-      "folderPath": "solutions/0876-middle-of-the-linked-list/",
-      "readmePath": "solutions/0876-middle-of-the-linked-list/README.md",
+      "folderPath": "solutions/Easy/0876-middle-of-the-linked-list/",
+      "readmePath": "solutions/Easy/0876-middle-of-the-linked-list/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -183,7 +183,7 @@
           "filename": "0876-middle-of-the-linked-list.cpp",
           "path": "solutions/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.cpp",
           "sha": "fd05fca5293ddf3c324dfe4a5d9c41d51ec89e6a",
-          "lastSyncedAt": "2026-11-11T05:45:20.908Z"
+          "lastSyncedAt": "2026-11-11T06:01:30.843Z"
         }
       ]
     }
