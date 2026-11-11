@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-11T06:05:13.335Z",
+  "updatedAt": "2026-11-11T06:05:52.869Z",
   "problems": [
     {
       "frontendId": "15",
@@ -274,8 +274,8 @@
       "problemName": "0747-largest-number-at-least-twice-of-others",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/largest-number-at-least-twice-of-others/",
-      "folderPath": "solutions/0747-largest-number-at-least-twice-of-others/",
-      "readmePath": "solutions/0747-largest-number-at-least-twice-of-others/README.md",
+      "folderPath": "solutions/Easy/0747-largest-number-at-least-twice-of-others/",
+      "readmePath": "solutions/Easy/0747-largest-number-at-least-twice-of-others/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -283,7 +283,7 @@
           "filename": "0747-largest-number-at-least-twice-of-others.cpp",
           "path": "solutions/0747-largest-number-at-least-twice-of-others/0747-largest-number-at-least-twice-of-others.cpp",
           "sha": "797d649f4ad4f47ae342ac8da01015e9f60c45da",
-          "lastSyncedAt": "2026-11-11T05:49:44.044Z"
+          "lastSyncedAt": "2026-11-11T06:05:52.869Z"
         }
       ]
     },
