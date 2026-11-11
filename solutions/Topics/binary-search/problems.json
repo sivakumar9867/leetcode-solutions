@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-11T04:36:02.811Z",
+  "updatedAt": "2026-11-11T04:36:13.952Z",
   "problems": [
+    {
+      "frontendId": "278",
+      "title": "First Bad Version",
+      "slug": "first-bad-version",
+      "problemName": "0278-first-bad-version",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
+      "folderPath": "solutions/0278-first-bad-version/",
+      "readmePath": "solutions/0278-first-bad-version/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0278-first-bad-version.cpp",
+          "path": "solutions/0278-first-bad-version/0278-first-bad-version.cpp",
+          "sha": "2c23c78b68d247d90f3bcc4476901e0c77f75058",
+          "lastSyncedAt": "2026-11-11T04:36:13.952Z"
+        }
+      ]
+    },
     {
       "frontendId": "374",
       "title": "Guess Number Higher or Lower",
