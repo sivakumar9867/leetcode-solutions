@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:40:09.025Z",
+  "updatedAt": "2026-11-11T04:40:22.432Z",
   "problems": [
     {
       "frontendId": "150",
@@ -64,6 +64,26 @@
           "path": "solutions/0263-ugly-number/0263-ugly-number.cpp",
           "sha": "1e4e993407b0d72216420525046bc7c087bc569c",
           "lastSyncedAt": "2026-11-11T04:38:49.352Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "solutions/0412-fizz-buzz/",
+      "readmePath": "solutions/0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0412-fizz-buzz.cpp",
+          "path": "solutions/0412-fizz-buzz/0412-fizz-buzz.cpp",
+          "sha": "3f41fe69c43e3236f78da9497f9f9c5d205ef912",
+          "lastSyncedAt": "2026-11-11T04:40:22.432Z"
         }
       ]
     },
