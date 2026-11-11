@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T06:06:29.482Z",
+  "updatedAt": "2026-11-11T06:06:36.088Z",
   "problems": [
     {
       "frontendId": "1",
@@ -914,8 +914,8 @@
       "problemName": "1299-replace-elements-with-greatest-element-on-right-side",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/",
-      "folderPath": "solutions/1299-replace-elements-with-greatest-element-on-right-side/",
-      "readmePath": "solutions/1299-replace-elements-with-greatest-element-on-right-side/README.md",
+      "folderPath": "solutions/Easy/1299-replace-elements-with-greatest-element-on-right-side/",
+      "readmePath": "solutions/Easy/1299-replace-elements-with-greatest-element-on-right-side/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -923,7 +923,7 @@
           "filename": "1299-replace-elements-with-greatest-element-on-right-side.cpp",
           "path": "solutions/1299-replace-elements-with-greatest-element-on-right-side/1299-replace-elements-with-greatest-element-on-right-side.cpp",
           "sha": "7f86d6af9f5c309de939ce95fc5da0f8b1fa5f43",
-          "lastSyncedAt": "2026-11-11T05:50:34.045Z"
+          "lastSyncedAt": "2026-11-11T06:06:36.088Z"
         }
       ]
     },
