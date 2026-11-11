@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:43:21.849Z",
+  "updatedAt": "2026-11-11T04:45:02.078Z",
   "problems": [
     {
       "frontendId": "16",
@@ -64,6 +64,26 @@
           "path": "solutions/0228-summary-ranges/0228-summary-ranges.cpp",
           "sha": "8bf49365380df1c93e9698387ddb3d69677b8714",
           "lastSyncedAt": "2026-11-11T04:43:21.849Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "solutions/0287-find-the-duplicate-number/",
+      "readmePath": "solutions/0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0287-find-the-duplicate-number.cpp",
+          "path": "solutions/0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
+          "sha": "f94dfe32ffbd313d616852f9b96f1fcc5e5eddbd",
+          "lastSyncedAt": "2026-11-11T04:45:02.078Z"
         }
       ]
     },
