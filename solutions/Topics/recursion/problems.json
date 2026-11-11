@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-11T04:43:26.861Z",
+  "updatedAt": "2026-11-11T04:43:55.357Z",
   "problems": [
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "solutions/0021-merge-two-sorted-lists/",
+      "readmePath": "solutions/0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0021-merge-two-sorted-lists.cpp",
+          "path": "solutions/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
+          "sha": "71404a0c49818b38892c1417c4738bc41fae78b5",
+          "lastSyncedAt": "2026-11-11T04:43:55.357Z"
+        }
+      ]
+    },
     {
       "frontendId": "203",
       "title": "Remove Linked List Elements",
