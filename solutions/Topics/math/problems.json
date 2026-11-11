@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:47:37.671Z",
+  "updatedAt": "2026-11-11T04:48:00.434Z",
   "problems": [
     {
       "frontendId": "2",
@@ -104,6 +104,26 @@
           "path": "solutions/0189-rotate-array/0189-rotate-array.cpp",
           "sha": "07f2531bbf8d0ba105db7f3a3fe436072992430a",
           "lastSyncedAt": "2026-11-11T04:45:47.440Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "problemName": "0202-happy-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+      "folderPath": "solutions/0202-happy-number/",
+      "readmePath": "solutions/0202-happy-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0202-happy-number.cpp",
+          "path": "solutions/0202-happy-number/0202-happy-number.cpp",
+          "sha": "636a3a6b97086fb538ce775c68c0f10f465024d9",
+          "lastSyncedAt": "2026-11-11T04:48:00.434Z"
         }
       ]
     },
