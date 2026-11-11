@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-11T04:42:32.621Z",
+  "updatedAt": "2026-11-11T04:42:50.911Z",
   "problems": [
     {
       "frontendId": "67",
@@ -44,6 +44,26 @@
           "path": "solutions/0224-basic-calculator/0224-basic-calculator.cpp",
           "sha": "081e08b9103bf0fb645d70f20161f187e4e6cd1d",
           "lastSyncedAt": "2026-11-11T04:42:32.621Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "problemName": "0290-word-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+      "folderPath": "solutions/0290-word-pattern/",
+      "readmePath": "solutions/0290-word-pattern/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0290-word-pattern.cpp",
+          "path": "solutions/0290-word-pattern/0290-word-pattern.cpp",
+          "sha": "8997e3e34adc45b6d12705da29ab50534d1f6151",
+          "lastSyncedAt": "2026-11-11T04:42:50.911Z"
         }
       ]
     },
