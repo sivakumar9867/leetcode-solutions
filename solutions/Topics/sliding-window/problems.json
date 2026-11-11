@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-11T06:03:38.448Z",
+  "updatedAt": "2026-11-11T06:04:15.713Z",
   "problems": [
     {
       "frontendId": "3",
@@ -34,8 +34,8 @@
       "problemName": "0219-contains-duplicate-ii",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
-      "folderPath": "solutions/0219-contains-duplicate-ii/",
-      "readmePath": "solutions/0219-contains-duplicate-ii/README.md",
+      "folderPath": "solutions/Easy/0219-contains-duplicate-ii/",
+      "readmePath": "solutions/Easy/0219-contains-duplicate-ii/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -43,7 +43,7 @@
           "filename": "0219-contains-duplicate-ii.cpp",
           "path": "solutions/0219-contains-duplicate-ii/0219-contains-duplicate-ii.cpp",
           "sha": "be6c28334925b50e41f7ba7c1341c88942c55ab2",
-          "lastSyncedAt": "2026-11-11T05:48:04.718Z"
+          "lastSyncedAt": "2026-11-11T06:04:15.713Z"
         }
       ]
     }
