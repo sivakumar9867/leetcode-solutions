@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-11T06:06:19.629Z",
+  "updatedAt": "2026-11-11T06:06:29.482Z",
   "problems": [
     {
       "frontendId": "15",
@@ -294,8 +294,8 @@
       "problemName": "0905-sort-array-by-parity",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity/",
-      "folderPath": "solutions/0905-sort-array-by-parity/",
-      "readmePath": "solutions/0905-sort-array-by-parity/README.md",
+      "folderPath": "solutions/Easy/0905-sort-array-by-parity/",
+      "readmePath": "solutions/Easy/0905-sort-array-by-parity/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -303,7 +303,7 @@
           "filename": "0905-sort-array-by-parity.cpp",
           "path": "solutions/0905-sort-array-by-parity/0905-sort-array-by-parity.cpp",
           "sha": "b2d42537372e7e40dccb96e9939dec97fa230906",
-          "lastSyncedAt": "2026-11-11T05:50:26.183Z"
+          "lastSyncedAt": "2026-11-11T06:06:29.482Z"
         }
       ]
     },
