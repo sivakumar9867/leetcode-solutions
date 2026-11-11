@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-11-11T05:44:23.682Z",
+  "updatedAt": "2026-11-11T06:00:30.322Z",
   "problems": [
     {
       "frontendId": "20",
@@ -14,8 +14,8 @@
       "problemName": "0020-valid-parentheses",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
-      "folderPath": "solutions/0020-valid-parentheses/",
-      "readmePath": "solutions/0020-valid-parentheses/README.md",
+      "folderPath": "solutions/Easy/0020-valid-parentheses/",
+      "readmePath": "solutions/Easy/0020-valid-parentheses/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -23,7 +23,7 @@
           "filename": "0020-valid-parentheses.cpp",
           "path": "solutions/0020-valid-parentheses/0020-valid-parentheses.cpp",
           "sha": "5c44208396a52828c7df9c06f066ea06defc9a40",
-          "lastSyncedAt": "2026-11-11T05:44:23.682Z"
+          "lastSyncedAt": "2026-11-11T06:00:30.322Z"
         }
       ]
     }
