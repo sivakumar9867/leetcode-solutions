@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-11T04:47:30.326Z",
+  "updatedAt": "2026-11-11T04:50:04.575Z",
   "problems": [
     {
       "frontendId": "238",
@@ -44,6 +44,26 @@
           "path": "solutions/0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.cpp",
           "sha": "f6c815d8a0579b66f698045c83c28e96d0448ac1",
           "lastSyncedAt": "2026-11-11T04:45:21.218Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "724",
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
+      "problemName": "0724-find-pivot-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+      "folderPath": "solutions/0724-find-pivot-index/",
+      "readmePath": "solutions/0724-find-pivot-index/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0724-find-pivot-index.cpp",
+          "path": "solutions/0724-find-pivot-index/0724-find-pivot-index.cpp",
+          "sha": "6f8d7506760fe4de294ee212a15f27cd69dc6247",
+          "lastSyncedAt": "2026-11-11T04:50:04.575Z"
         }
       ]
     },
