@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-11T04:51:23.595Z",
+  "updatedAt": "2026-11-11T04:51:30.588Z",
   "problems": [
     {
       "frontendId": "15",
@@ -424,6 +424,26 @@
           "path": "solutions/0905-sort-array-by-parity/0905-sort-array-by-parity.cpp",
           "sha": "b2d42537372e7e40dccb96e9939dec97fa230906",
           "lastSyncedAt": "2026-11-11T04:50:53.810Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1089",
+      "title": "Duplicate Zeros",
+      "slug": "duplicate-zeros",
+      "problemName": "1089-duplicate-zeros",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/duplicate-zeros/",
+      "folderPath": "solutions/1089-duplicate-zeros/",
+      "readmePath": "solutions/1089-duplicate-zeros/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1089-duplicate-zeros.cpp",
+          "path": "solutions/1089-duplicate-zeros/1089-duplicate-zeros.cpp",
+          "sha": "c11731369c323858326312bd9cee8728f57bc6c1",
+          "lastSyncedAt": "2026-11-11T04:51:30.588Z"
         }
       ]
     },
