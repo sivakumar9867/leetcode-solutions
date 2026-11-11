@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:37:03.409Z",
+  "updatedAt": "2026-11-11T04:37:19.214Z",
   "problems": [
+    {
+      "frontendId": "989",
+      "title": "Add to Array-Form of Integer",
+      "slug": "add-to-array-form-of-integer",
+      "problemName": "0989-add-to-array-form-of-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-to-array-form-of-integer/",
+      "folderPath": "solutions/0989-add-to-array-form-of-integer/",
+      "readmePath": "solutions/0989-add-to-array-form-of-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0989-add-to-array-form-of-integer.cpp",
+          "path": "solutions/0989-add-to-array-form-of-integer/0989-add-to-array-form-of-integer.cpp",
+          "sha": "d812963459d7fbfc1cc22d1181d93066582640b7",
+          "lastSyncedAt": "2026-11-11T04:37:19.214Z"
+        }
+      ]
+    },
     {
       "frontendId": "1232",
       "title": "Check If It Is a Straight Line",
