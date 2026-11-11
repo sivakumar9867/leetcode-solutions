@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T05:35:58.250Z",
+  "updatedAt": "2026-11-11T05:36:09.924Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,7 +143,7 @@
           "filename": "0027-remove-element.cpp",
           "path": "solutions/0027-remove-element/0027-remove-element.cpp",
           "sha": "b519f9124ee483389682cb724abd0a91d5916f61",
-          "lastSyncedAt": "2026-11-11T05:22:30.007Z"
+          "lastSyncedAt": "2026-11-11T05:36:09.924Z"
         }
       ]
     },
