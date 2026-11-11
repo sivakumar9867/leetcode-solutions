@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:54:02.742Z",
+  "updatedAt": "2026-11-11T04:55:25.095Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1183,7 +1183,7 @@
           "filename": "1991-find-the-middle-index-in-array.cpp",
           "path": "solutions/1991-find-the-middle-index-in-array/1991-find-the-middle-index-in-array.cpp",
           "sha": "9d1f46d57c233eefdf5f167134f993b7291d3e2c",
-          "lastSyncedAt": "2026-11-11T04:35:23.164Z"
+          "lastSyncedAt": "2026-11-11T04:55:25.095Z"
         }
       ]
     },
