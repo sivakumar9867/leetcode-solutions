@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-11T04:40:47.934Z",
+  "updatedAt": "2026-11-11T04:41:22.953Z",
   "problems": [
     {
       "frontendId": "67",
@@ -124,6 +124,26 @@
           "path": "solutions/1518-water-bottles/1518-water-bottles.cpp",
           "sha": "613531b61e7b7fb06c171e39c92353920f767397",
           "lastSyncedAt": "2026-11-11T04:40:47.934Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1688",
+      "title": "Count of Matches in Tournament",
+      "slug": "count-of-matches-in-tournament",
+      "problemName": "1688-count-of-matches-in-tournament",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-of-matches-in-tournament/",
+      "folderPath": "solutions/1688-count-of-matches-in-tournament/",
+      "readmePath": "solutions/1688-count-of-matches-in-tournament/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1688-count-of-matches-in-tournament.cpp",
+          "path": "solutions/1688-count-of-matches-in-tournament/1688-count-of-matches-in-tournament.cpp",
+          "sha": "4f23532574a8a3ba63dbca8da0c311bbc84bb149",
+          "lastSyncedAt": "2026-11-11T04:41:22.953Z"
         }
       ]
     },
