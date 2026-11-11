@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:46:13.464Z",
+  "updatedAt": "2026-11-11T04:46:32.199Z",
   "problems": [
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "solutions/0014-longest-common-prefix/",
+      "readmePath": "solutions/0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0014-longest-common-prefix.cpp",
+          "path": "solutions/0014-longest-common-prefix/0014-longest-common-prefix.cpp",
+          "sha": "2b57c112fb31bedc864c0d03b8c39feec438b80c",
+          "lastSyncedAt": "2026-11-11T04:46:32.199Z"
+        }
+      ]
+    },
     {
       "frontendId": "15",
       "title": "3Sum",
