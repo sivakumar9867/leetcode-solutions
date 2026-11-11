@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-11T06:04:07.924Z",
+  "updatedAt": "2026-11-11T06:04:23.279Z",
   "problems": [
     {
       "frontendId": "15",
@@ -254,8 +254,8 @@
       "problemName": "0202-happy-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
-      "folderPath": "solutions/0202-happy-number/",
-      "readmePath": "solutions/0202-happy-number/README.md",
+      "folderPath": "solutions/Easy/0202-happy-number/",
+      "readmePath": "solutions/Easy/0202-happy-number/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -263,7 +263,7 @@
           "filename": "0202-happy-number.cpp",
           "path": "solutions/0202-happy-number/0202-happy-number.cpp",
           "sha": "636a3a6b97086fb538ce775c68c0f10f465024d9",
-          "lastSyncedAt": "2026-11-11T05:48:14.330Z"
+          "lastSyncedAt": "2026-11-11T06:04:23.279Z"
         }
       ]
     },
