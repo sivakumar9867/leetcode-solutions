@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T06:06:36.088Z",
+  "updatedAt": "2026-11-11T06:06:39.046Z",
   "problems": [
     {
       "frontendId": "1",
@@ -954,8 +954,8 @@
       "problemName": "1346-check-if-n-and-its-double-exist",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
-      "folderPath": "solutions/1346-check-if-n-and-its-double-exist/",
-      "readmePath": "solutions/1346-check-if-n-and-its-double-exist/README.md",
+      "folderPath": "solutions/Easy/1346-check-if-n-and-its-double-exist/",
+      "readmePath": "solutions/Easy/1346-check-if-n-and-its-double-exist/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -963,7 +963,7 @@
           "filename": "1346-check-if-n-and-its-double-exist.cpp",
           "path": "solutions/1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.cpp",
           "sha": "9014d188b74fa30ffa4f059f1d15ba4b99963c8a",
-          "lastSyncedAt": "2026-11-11T05:50:38.071Z"
+          "lastSyncedAt": "2026-11-11T06:06:39.046Z"
         }
       ]
     },
