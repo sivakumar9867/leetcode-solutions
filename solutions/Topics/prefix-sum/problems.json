@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-11T04:45:21.218Z",
+  "updatedAt": "2026-11-11T04:45:40.284Z",
   "problems": [
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "solutions/0238-product-of-array-except-self/",
+      "readmePath": "solutions/0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0238-product-of-array-except-self.cpp",
+          "path": "solutions/0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
+          "sha": "9ffbb955b8422bd36cb34a8ce779ae81e8ea0e3d",
+          "lastSyncedAt": "2026-11-11T04:45:40.284Z"
+        }
+      ]
+    },
     {
       "frontendId": "560",
       "title": "Subarray Sum Equals K",
