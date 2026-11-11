@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-11T05:18:33.820Z",
+  "updatedAt": "2026-11-11T05:18:46.826Z",
   "problems": [
     {
       "frontendId": "15",
@@ -83,7 +83,7 @@
           "filename": "0169-majority-element.cpp",
           "path": "solutions/0169-majority-element/0169-majority-element.cpp",
           "sha": "b1e6383f6b9bbce487a21db798a4ec63bca4da22",
-          "lastSyncedAt": "2026-11-11T05:02:24.103Z"
+          "lastSyncedAt": "2026-11-11T05:18:46.826Z"
         }
       ]
     },
