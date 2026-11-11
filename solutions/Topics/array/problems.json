@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T05:46:24.882Z",
+  "updatedAt": "2026-11-11T05:46:29.341Z",
   "problems": [
     {
       "frontendId": "1",
@@ -363,7 +363,7 @@
           "filename": "0189-rotate-array.cpp",
           "path": "solutions/0189-rotate-array/0189-rotate-array.cpp",
           "sha": "07f2531bbf8d0ba105db7f3a3fe436072992430a",
-          "lastSyncedAt": "2026-11-11T05:32:09.257Z"
+          "lastSyncedAt": "2026-11-11T05:46:29.341Z"
         }
       ]
     },
