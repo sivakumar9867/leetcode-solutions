@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-11T05:47:47.072Z",
+  "updatedAt": "2026-11-11T06:00:55.934Z",
   "problems": [
     {
       "frontendId": "2",
@@ -114,8 +114,8 @@
       "problemName": "0203-remove-linked-list-elements",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
-      "folderPath": "solutions/0203-remove-linked-list-elements/",
-      "readmePath": "solutions/0203-remove-linked-list-elements/README.md",
+      "folderPath": "solutions/Easy/0203-remove-linked-list-elements/",
+      "readmePath": "solutions/Easy/0203-remove-linked-list-elements/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -123,7 +123,7 @@
           "filename": "0203-remove-linked-list-elements.cpp",
           "path": "solutions/0203-remove-linked-list-elements/0203-remove-linked-list-elements.cpp",
           "sha": "7f78c0e4c72fa5d185ffc2dd24f2f31ae46d8036",
-          "lastSyncedAt": "2026-11-11T05:44:49.398Z"
+          "lastSyncedAt": "2026-11-11T06:00:55.934Z"
         }
       ]
     },
