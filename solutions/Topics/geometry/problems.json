@@ -5,7 +5,7 @@
     "name": "Geometry",
     "tagId": "38"
   },
-  "updatedAt": "2026-11-11T05:12:07.461Z",
+  "updatedAt": "2026-11-11T05:25:49.497Z",
   "problems": [
     {
       "frontendId": "1232",
@@ -23,7 +23,7 @@
           "filename": "1232-check-if-it-is-a-straight-line.cpp",
           "path": "solutions/1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.cpp",
           "sha": "757577ec240a19f04fbc0c44f07bc9e0047969a6",
-          "lastSyncedAt": "2026-11-11T05:12:07.461Z"
+          "lastSyncedAt": "2026-11-11T05:25:49.497Z"
         }
       ]
     }
