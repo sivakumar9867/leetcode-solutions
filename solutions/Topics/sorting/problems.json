@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-11T04:48:31.272Z",
+  "updatedAt": "2026-11-11T04:49:04.557Z",
   "problems": [
     {
       "frontendId": "15",
@@ -184,6 +184,26 @@
           "path": "solutions/0389-find-the-difference/0389-find-the-difference.cpp",
           "sha": "63ad968f61c3bb3aa26892f936c845152f1a1d4f",
           "lastSyncedAt": "2026-11-11T04:36:31.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "414",
+      "title": "Third Maximum Number",
+      "slug": "third-maximum-number",
+      "problemName": "0414-third-maximum-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
+      "folderPath": "solutions/0414-third-maximum-number/",
+      "readmePath": "solutions/0414-third-maximum-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0414-third-maximum-number.cpp",
+          "path": "solutions/0414-third-maximum-number/0414-third-maximum-number.cpp",
+          "sha": "691a488e0c42f696a8802226c64beb88668a7bc7",
+          "lastSyncedAt": "2026-11-11T04:49:04.557Z"
         }
       ]
     },
