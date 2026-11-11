@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:43:07.917Z",
+  "updatedAt": "2026-11-11T04:43:21.849Z",
   "problems": [
     {
       "frontendId": "16",
@@ -44,6 +44,26 @@
           "path": "solutions/0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.cpp",
           "sha": "42b38764969d9d08a31ce6dc250246a666bfe1f0",
           "lastSyncedAt": "2026-11-11T04:39:14.113Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "228",
+      "title": "Summary Ranges",
+      "slug": "summary-ranges",
+      "problemName": "0228-summary-ranges",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/summary-ranges/",
+      "folderPath": "solutions/0228-summary-ranges/",
+      "readmePath": "solutions/0228-summary-ranges/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0228-summary-ranges.cpp",
+          "path": "solutions/0228-summary-ranges/0228-summary-ranges.cpp",
+          "sha": "8bf49365380df1c93e9698387ddb3d69677b8714",
+          "lastSyncedAt": "2026-11-11T04:43:21.849Z"
         }
       ]
     },
