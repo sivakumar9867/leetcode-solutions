@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-11T04:37:42.467Z",
+  "updatedAt": "2026-11-11T04:38:10.581Z",
   "problems": [
     {
       "frontendId": "389",
@@ -24,6 +24,26 @@
           "path": "solutions/0389-find-the-difference/0389-find-the-difference.cpp",
           "sha": "63ad968f61c3bb3aa26892f936c845152f1a1d4f",
           "lastSyncedAt": "2026-11-11T04:36:31.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "448",
+      "title": "Find All Numbers Disappeared in an Array",
+      "slug": "find-all-numbers-disappeared-in-an-array",
+      "problemName": "0448-find-all-numbers-disappeared-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+      "folderPath": "solutions/0448-find-all-numbers-disappeared-in-an-array/",
+      "readmePath": "solutions/0448-find-all-numbers-disappeared-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0448-find-all-numbers-disappeared-in-an-array.cpp",
+          "path": "solutions/0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.cpp",
+          "sha": "1c0e8fb524561046f3764f585e5049c1f9ce6290",
+          "lastSyncedAt": "2026-11-11T04:38:10.581Z"
         }
       ]
     },
