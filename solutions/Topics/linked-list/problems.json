@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-11T04:43:26.861Z",
+  "updatedAt": "2026-11-11T04:43:35.626Z",
   "problems": [
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "solutions/0142-linked-list-cycle-ii/",
+      "readmePath": "solutions/0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0142-linked-list-cycle-ii.cpp",
+          "path": "solutions/0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp",
+          "sha": "8774e3c7e7edd5d138df9eacf260e76ef7c5c21f",
+          "lastSyncedAt": "2026-11-11T04:43:35.626Z"
+        }
+      ]
+    },
     {
       "frontendId": "203",
       "title": "Remove Linked List Elements",
