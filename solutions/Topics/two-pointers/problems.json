@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-11T04:43:35.626Z",
+  "updatedAt": "2026-11-11T04:43:48.836Z",
   "problems": [
     {
       "frontendId": "16",
@@ -24,6 +24,26 @@
           "path": "solutions/0016-3sum-closest/0016-3sum-closest.cpp",
           "sha": "c09590035bb39f1e909c59483e8b9561e4ec1711",
           "lastSyncedAt": "2026-11-11T04:40:56.146Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "problemName": "0019-remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "folderPath": "solutions/0019-remove-nth-node-from-end-of-list/",
+      "readmePath": "solutions/0019-remove-nth-node-from-end-of-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0019-remove-nth-node-from-end-of-list.cpp",
+          "path": "solutions/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.cpp",
+          "sha": "1d6c4d353585204d0950cd3e6d5e176f7fca3083",
+          "lastSyncedAt": "2026-11-11T04:43:48.836Z"
         }
       ]
     },
