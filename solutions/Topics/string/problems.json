@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-11T04:42:50.911Z",
+  "updatedAt": "2026-11-11T04:42:57.669Z",
   "problems": [
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "solutions/0020-valid-parentheses/",
+      "readmePath": "solutions/0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0020-valid-parentheses.cpp",
+          "path": "solutions/0020-valid-parentheses/0020-valid-parentheses.cpp",
+          "sha": "5c44208396a52828c7df9c06f066ea06defc9a40",
+          "lastSyncedAt": "2026-11-11T04:42:57.669Z"
+        }
+      ]
+    },
     {
       "frontendId": "67",
       "title": "Add Binary",
