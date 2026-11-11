@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-11T05:23:35.610Z",
+  "updatedAt": "2026-11-11T05:23:57.072Z",
   "problems": [
     {
       "frontendId": "67",
@@ -63,7 +63,7 @@
           "filename": "0231-power-of-two.cpp",
           "path": "solutions/0231-power-of-two/0231-power-of-two.cpp",
           "sha": "11afd236320425c5c389de7aa66efb49e96dfd25",
-          "lastSyncedAt": "2026-11-11T05:07:22.573Z"
+          "lastSyncedAt": "2026-11-11T05:23:57.072Z"
         }
       ]
     },
