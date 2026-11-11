@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T05:06:56.156Z",
+  "updatedAt": "2026-11-11T05:07:01.558Z",
   "problems": [
     {
       "frontendId": "2",
@@ -343,7 +343,7 @@
           "filename": "0342-power-of-four.cpp",
           "path": "solutions/0342-power-of-four/0342-power-of-four.cpp",
           "sha": "310cd9ced877119144b8d842ac5371fdfcfa3a4d",
-          "lastSyncedAt": "2026-11-11T04:52:53.333Z"
+          "lastSyncedAt": "2026-11-11T05:07:01.558Z"
         }
       ]
     },
