@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-11T05:18:06.255Z",
+  "updatedAt": "2026-11-11T05:18:21.218Z",
   "problems": [
     {
       "frontendId": "238",
@@ -23,7 +23,7 @@
           "filename": "0238-product-of-array-except-self.cpp",
           "path": "solutions/0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
           "sha": "9ffbb955b8422bd36cb34a8ce779ae81e8ea0e3d",
-          "lastSyncedAt": "2026-11-11T05:02:00.510Z"
+          "lastSyncedAt": "2026-11-11T05:18:21.218Z"
         }
       ]
     },
