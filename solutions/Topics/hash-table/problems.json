@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-11T05:14:30.194Z",
+  "updatedAt": "2026-11-11T05:16:19.557Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,7 +243,7 @@
           "filename": "0290-word-pattern.cpp",
           "path": "solutions/0290-word-pattern/0290-word-pattern.cpp",
           "sha": "8997e3e34adc45b6d12705da29ab50534d1f6151",
-          "lastSyncedAt": "2026-11-11T05:00:02.034Z"
+          "lastSyncedAt": "2026-11-11T05:16:19.557Z"
         }
       ]
     },
