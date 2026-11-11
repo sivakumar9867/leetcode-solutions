@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:42:10.269Z",
+  "updatedAt": "2026-11-11T04:42:16.061Z",
   "problems": [
     {
       "frontendId": "67",
@@ -144,6 +144,26 @@
           "path": "solutions/0509-fibonacci-number/0509-fibonacci-number.cpp",
           "sha": "ca63b45369d24d5e4293807df0690f209db84718",
           "lastSyncedAt": "2026-11-11T04:37:54.175Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "908",
+      "title": "Smallest Range I",
+      "slug": "smallest-range-i",
+      "problemName": "0908-smallest-range-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-range-i/",
+      "folderPath": "solutions/0908-smallest-range-i/",
+      "readmePath": "solutions/0908-smallest-range-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0908-smallest-range-i.cpp",
+          "path": "solutions/0908-smallest-range-i/0908-smallest-range-i.cpp",
+          "sha": "6095c54bdb47e90c0b97f30ee0b3ea158411009b",
+          "lastSyncedAt": "2026-11-11T04:42:16.061Z"
         }
       ]
     },
