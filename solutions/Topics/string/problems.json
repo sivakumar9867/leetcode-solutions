@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-11T04:50:12.170Z",
+  "updatedAt": "2026-11-11T04:50:33.525Z",
   "problems": [
     {
       "frontendId": "3",
@@ -84,6 +84,26 @@
           "path": "solutions/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "dfa783cc22c8bb5b98e3c4b8d0c6992f26e55be4",
           "lastSyncedAt": "2026-11-11T04:50:12.170Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "problemName": "0058-length-of-last-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+      "folderPath": "solutions/0058-length-of-last-word/",
+      "readmePath": "solutions/0058-length-of-last-word/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0058-length-of-last-word.cpp",
+          "path": "solutions/0058-length-of-last-word/0058-length-of-last-word.cpp",
+          "sha": "e6db2cefd650b88ff703ee5afb524df66746a06e",
+          "lastSyncedAt": "2026-11-11T04:50:33.525Z"
         }
       ]
     },
