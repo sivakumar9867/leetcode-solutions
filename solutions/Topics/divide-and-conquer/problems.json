@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-11T04:46:42.953Z",
+  "updatedAt": "2026-11-11T04:54:02.742Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "solutions/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "481ec355d97085427822e57902da639ea2594e29",
           "lastSyncedAt": "2026-11-11T04:46:42.953Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "solutions/0053-maximum-subarray/",
+      "readmePath": "solutions/0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0053-maximum-subarray.cpp",
+          "path": "solutions/0053-maximum-subarray/0053-maximum-subarray.cpp",
+          "sha": "d9dfb0bda09f7f1ba97e362bc307ba839698014f",
+          "lastSyncedAt": "2026-11-11T04:54:02.742Z"
         }
       ]
     },
