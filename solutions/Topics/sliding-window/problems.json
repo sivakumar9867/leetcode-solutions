@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-11T05:02:55.332Z",
+  "updatedAt": "2026-11-11T05:03:31.689Z",
   "problems": [
     {
       "frontendId": "3",
@@ -43,7 +43,7 @@
           "filename": "0219-contains-duplicate-ii.cpp",
           "path": "solutions/0219-contains-duplicate-ii/0219-contains-duplicate-ii.cpp",
           "sha": "be6c28334925b50e41f7ba7c1341c88942c55ab2",
-          "lastSyncedAt": "2026-11-11T04:47:48.519Z"
+          "lastSyncedAt": "2026-11-11T05:03:31.689Z"
         }
       ]
     }
