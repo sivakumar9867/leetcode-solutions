@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-11T04:49:39.759Z",
+  "updatedAt": "2026-11-11T04:51:09.589Z",
   "problems": [
     {
       "frontendId": "4",
@@ -184,6 +184,26 @@
           "path": "solutions/0633-sum-of-square-numbers/0633-sum-of-square-numbers.cpp",
           "sha": "61bb520fe9dc990f41db61f4136a510c741048f2",
           "lastSyncedAt": "2026-11-11T04:47:37.671Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1346",
+      "title": "Check If N and Its Double Exist",
+      "slug": "check-if-n-and-its-double-exist",
+      "problemName": "1346-check-if-n-and-its-double-exist",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+      "folderPath": "solutions/1346-check-if-n-and-its-double-exist/",
+      "readmePath": "solutions/1346-check-if-n-and-its-double-exist/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1346-check-if-n-and-its-double-exist.cpp",
+          "path": "solutions/1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.cpp",
+          "sha": "9014d188b74fa30ffa4f059f1d15ba4b99963c8a",
+          "lastSyncedAt": "2026-11-11T04:51:09.589Z"
         }
       ]
     }
