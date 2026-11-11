@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:38:42.691Z",
+  "updatedAt": "2026-11-11T04:38:54.713Z",
   "problems": [
     {
       "frontendId": "448",
@@ -104,6 +104,26 @@
           "path": "solutions/1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.cpp",
           "sha": "757577ec240a19f04fbc0c44f07bc9e0047969a6",
           "lastSyncedAt": "2026-11-11T04:36:21.008Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1475",
+      "title": "Final Prices With a Special Discount in a Shop",
+      "slug": "final-prices-with-a-special-discount-in-a-shop",
+      "problemName": "1475-final-prices-with-a-special-discount-in-a-shop",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/",
+      "folderPath": "solutions/1475-final-prices-with-a-special-discount-in-a-shop/",
+      "readmePath": "solutions/1475-final-prices-with-a-special-discount-in-a-shop/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1475-final-prices-with-a-special-discount-in-a-shop.cpp",
+          "path": "solutions/1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.cpp",
+          "sha": "bf055be53f92973e1e698194830b946c85494db9",
+          "lastSyncedAt": "2026-11-11T04:38:54.713Z"
         }
       ]
     },
