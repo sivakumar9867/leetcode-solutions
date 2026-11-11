@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-11T05:51:48.653Z",
+  "updatedAt": "2026-11-11T05:51:56.381Z",
   "problems": [
     {
       "frontendId": "2",
@@ -143,7 +143,7 @@
           "filename": "0326-power-of-three.cpp",
           "path": "solutions/0326-power-of-three/0326-power-of-three.cpp",
           "sha": "75edb903ce7d7013e685ef6ec0063163f76d0436",
-          "lastSyncedAt": "2026-11-11T05:37:14.570Z"
+          "lastSyncedAt": "2026-11-11T05:51:56.381Z"
         }
       ]
     },
