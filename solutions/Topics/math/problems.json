@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:39:59.128Z",
+  "updatedAt": "2026-11-11T04:40:09.025Z",
   "problems": [
     {
       "frontendId": "150",
@@ -164,6 +164,26 @@
           "path": "solutions/1323-maximum-69-number/1323-maximum-69-number.cpp",
           "sha": "ac99b923af646b0c87d41cf510fede3246a882c8",
           "lastSyncedAt": "2026-11-11T04:37:26.815Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "solutions/1512-number-of-good-pairs/",
+      "readmePath": "solutions/1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1512-number-of-good-pairs.cpp",
+          "path": "solutions/1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
+          "sha": "ecaaabf1a052658800a66a1fd786227d94436341",
+          "lastSyncedAt": "2026-11-11T04:40:09.025Z"
         }
       ]
     },
