@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-11T04:37:03.409Z",
+  "updatedAt": "2026-11-11T04:38:26.596Z",
   "problems": [
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "solutions/0258-add-digits/",
+      "readmePath": "solutions/0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0258-add-digits.cpp",
+          "path": "solutions/0258-add-digits/0258-add-digits.cpp",
+          "sha": "972f496ef502ecf3810d8747fd1d500a3e8041bf",
+          "lastSyncedAt": "2026-11-11T04:38:26.596Z"
+        }
+      ]
+    },
     {
       "frontendId": "3264",
       "title": "Final Array State After K Multiplication Operations I",
