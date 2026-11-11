@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-11T04:45:57.774Z",
+  "updatedAt": "2026-11-11T04:52:53.333Z",
   "problems": [
     {
       "frontendId": "67",
@@ -64,6 +64,26 @@
           "path": "solutions/0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
           "sha": "f94dfe32ffbd313d616852f9b96f1fcc5e5eddbd",
           "lastSyncedAt": "2026-11-11T04:45:02.078Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "problemName": "0342-power-of-four",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+      "folderPath": "solutions/0342-power-of-four/",
+      "readmePath": "solutions/0342-power-of-four/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0342-power-of-four.cpp",
+          "path": "solutions/0342-power-of-four/0342-power-of-four.cpp",
+          "sha": "310cd9ced877119144b8d842ac5371fdfcfa3a4d",
+          "lastSyncedAt": "2026-11-11T04:52:53.333Z"
         }
       ]
     },
