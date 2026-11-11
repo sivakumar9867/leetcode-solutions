@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting",
+    "tagId": "61049"
+  },
+  "updatedAt": "2026-11-11T04:36:31.470Z",
+  "problems": [
+    {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "problemName": "0389-find-the-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+      "folderPath": "solutions/0389-find-the-difference/",
+      "readmePath": "solutions/0389-find-the-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0389-find-the-difference.cpp",
+          "path": "solutions/0389-find-the-difference/0389-find-the-difference.cpp",
+          "sha": "63ad968f61c3bb3aa26892f936c845152f1a1d4f",
+          "lastSyncedAt": "2026-11-11T04:36:31.470Z"
+        }
+      ]
+    }
+  ]
+}
