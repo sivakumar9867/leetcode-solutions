@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:42:32.621Z",
+  "updatedAt": "2026-11-11T04:42:44.979Z",
   "problems": [
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "solutions/0007-reverse-integer/",
+      "readmePath": "solutions/0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0007-reverse-integer.cpp",
+          "path": "solutions/0007-reverse-integer/0007-reverse-integer.cpp",
+          "sha": "3e9b158b9e77824b3378b9f9e63b9898800e3796",
+          "lastSyncedAt": "2026-11-11T04:42:44.979Z"
+        }
+      ]
+    },
     {
       "frontendId": "67",
       "title": "Add Binary",
