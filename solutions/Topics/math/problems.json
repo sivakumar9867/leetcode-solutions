@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:41:34.732Z",
+  "updatedAt": "2026-11-11T04:41:41.722Z",
   "problems": [
     {
       "frontendId": "67",
@@ -424,6 +424,26 @@
           "path": "solutions/3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.cpp",
           "sha": "243f91506ef2209cbf40e69557ba594f6cfe820f",
           "lastSyncedAt": "2026-11-11T04:41:34.732Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3512",
+      "title": "Minimum Operations to Make Array Sum Divisible by K",
+      "slug": "minimum-operations-to-make-array-sum-divisible-by-k",
+      "problemName": "3512-minimum-operations-to-make-array-sum-divisible-by-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/",
+      "folderPath": "solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/",
+      "readmePath": "solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3512-minimum-operations-to-make-array-sum-divisible-by-k.cpp",
+          "path": "solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/3512-minimum-operations-to-make-array-sum-divisible-by-k.cpp",
+          "sha": "8a511c10d9d47bc2b2d3c1a94e2e8ae05a21596c",
+          "lastSyncedAt": "2026-11-11T04:41:41.722Z"
         }
       ]
     },
