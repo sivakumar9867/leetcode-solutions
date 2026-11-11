@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T05:41:37.757Z",
+  "updatedAt": "2026-11-11T05:41:46.513Z",
   "problems": [
     {
       "frontendId": "1",
@@ -683,7 +683,7 @@
           "filename": "0636-exclusive-time-of-functions.cpp",
           "path": "solutions/0636-exclusive-time-of-functions/0636-exclusive-time-of-functions.cpp",
           "sha": "8f9213f80aa1fc44a06e9525890638906b1a470b",
-          "lastSyncedAt": "2026-11-11T05:27:30.357Z"
+          "lastSyncedAt": "2026-11-11T05:41:46.513Z"
         }
       ]
     },
