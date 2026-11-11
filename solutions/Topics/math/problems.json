@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:41:41.722Z",
+  "updatedAt": "2026-11-11T04:41:48.681Z",
   "problems": [
     {
       "frontendId": "67",
@@ -204,6 +204,26 @@
           "path": "solutions/1323-maximum-69-number/1323-maximum-69-number.cpp",
           "sha": "ac99b923af646b0c87d41cf510fede3246a882c8",
           "lastSyncedAt": "2026-11-11T04:37:26.815Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1486",
+      "title": "XOR Operation in an Array",
+      "slug": "xor-operation-in-an-array",
+      "problemName": "1486-xor-operation-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-operation-in-an-array/",
+      "folderPath": "solutions/1486-xor-operation-in-an-array/",
+      "readmePath": "solutions/1486-xor-operation-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1486-xor-operation-in-an-array.cpp",
+          "path": "solutions/1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.cpp",
+          "sha": "3088191aa5029a8489bde6e2c49c5490761065b2",
+          "lastSyncedAt": "2026-11-11T04:41:48.681Z"
         }
       ]
     },
