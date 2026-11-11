@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-11T04:48:00.434Z",
+  "updatedAt": "2026-11-11T04:48:10.974Z",
   "problems": [
     {
       "frontendId": "1",
@@ -364,6 +364,26 @@
           "path": "solutions/1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
           "sha": "ecaaabf1a052658800a66a1fd786227d94436341",
           "lastSyncedAt": "2026-11-11T04:40:09.025Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2215",
+      "title": "Find the Difference of Two Arrays",
+      "slug": "find-the-difference-of-two-arrays",
+      "problemName": "2215-find-the-difference-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference-of-two-arrays/",
+      "folderPath": "solutions/2215-find-the-difference-of-two-arrays/",
+      "readmePath": "solutions/2215-find-the-difference-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2215-find-the-difference-of-two-arrays.cpp",
+          "path": "solutions/2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.cpp",
+          "sha": "192a0bca7c3042702cf10e220ba9602c4e5f218a",
+          "lastSyncedAt": "2026-11-11T04:48:10.974Z"
         }
       ]
     },
