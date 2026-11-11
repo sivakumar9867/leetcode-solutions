@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-11T04:56:32.009Z",
+  "updatedAt": "2026-11-11T04:58:57.389Z",
   "problems": [
     {
       "frontendId": "1323",
@@ -43,7 +43,7 @@
           "filename": "2160-minimum-sum-of-four-digit-number-after-splitting-digits.cpp",
           "path": "solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/2160-minimum-sum-of-four-digit-number-after-splitting-digits.cpp",
           "sha": "0a210db340b6f3fe2e4204606ae115e13a576c8c",
-          "lastSyncedAt": "2026-11-11T04:41:13.761Z"
+          "lastSyncedAt": "2026-11-11T04:58:57.389Z"
         }
       ]
     }
