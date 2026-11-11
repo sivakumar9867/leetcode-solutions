@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-11T04:40:56.146Z",
+  "updatedAt": "2026-11-11T04:41:13.761Z",
   "problems": [
     {
       "frontendId": "16",
@@ -84,6 +84,26 @@
           "path": "solutions/1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.cpp",
           "sha": "1d136fbaef7fb65836d72088703926dcda8b8de5",
           "lastSyncedAt": "2026-11-11T04:39:32.251Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2160",
+      "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+      "slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
+      "problemName": "2160-minimum-sum-of-four-digit-number-after-splitting-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/",
+      "folderPath": "solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/",
+      "readmePath": "solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2160-minimum-sum-of-four-digit-number-after-splitting-digits.cpp",
+          "path": "solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/2160-minimum-sum-of-four-digit-number-after-splitting-digits.cpp",
+          "sha": "0a210db340b6f3fe2e4204606ae115e13a576c8c",
+          "lastSyncedAt": "2026-11-11T04:41:13.761Z"
         }
       ]
     }
