@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T05:07:13.479Z",
+  "updatedAt": "2026-11-11T05:07:16.371Z",
   "problems": [
     {
       "frontendId": "2",
@@ -123,7 +123,7 @@
           "filename": "0069-sqrtx.cpp",
           "path": "solutions/0069-sqrtx/0069-sqrtx.cpp",
           "sha": "f6a8d76f2fe31ca0153a9371fc79f113f7a1e70d",
-          "lastSyncedAt": "2026-11-11T04:53:16.302Z"
+          "lastSyncedAt": "2026-11-11T05:07:16.371Z"
         }
       ]
     },
