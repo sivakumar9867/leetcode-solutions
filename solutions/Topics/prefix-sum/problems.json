@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-11T05:33:24.239Z",
+  "updatedAt": "2026-11-11T05:35:15.246Z",
   "problems": [
     {
       "frontendId": "238",
@@ -63,7 +63,7 @@
           "filename": "0724-find-pivot-index.cpp",
           "path": "solutions/0724-find-pivot-index/0724-find-pivot-index.cpp",
           "sha": "6f8d7506760fe4de294ee212a15f27cd69dc6247",
-          "lastSyncedAt": "2026-11-11T05:21:29.111Z"
+          "lastSyncedAt": "2026-11-11T05:35:15.246Z"
         }
       ]
     },
