@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-11T05:01:11.305Z",
+  "updatedAt": "2026-11-11T05:02:24.103Z",
   "problems": [
     {
       "frontendId": "169",
@@ -23,7 +23,7 @@
           "filename": "0169-majority-element.cpp",
           "path": "solutions/0169-majority-element/0169-majority-element.cpp",
           "sha": "b1e6383f6b9bbce487a21db798a4ec63bca4da22",
-          "lastSyncedAt": "2026-11-11T04:46:13.464Z"
+          "lastSyncedAt": "2026-11-11T05:02:24.103Z"
         }
       ]
     },
