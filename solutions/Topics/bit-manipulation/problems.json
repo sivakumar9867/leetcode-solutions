@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-11T05:52:09.654Z",
+  "updatedAt": "2026-11-11T05:52:15.137Z",
   "problems": [
     {
       "frontendId": "67",
@@ -43,7 +43,7 @@
           "filename": "0136-single-number.cpp",
           "path": "solutions/0136-single-number/0136-single-number.cpp",
           "sha": "9d54ae94a62693e2f6c1c161536c47cacbdafa6a",
-          "lastSyncedAt": "2026-11-11T05:37:34.457Z"
+          "lastSyncedAt": "2026-11-11T05:52:15.137Z"
         }
       ]
     },
