@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:52:20.696Z",
+  "updatedAt": "2026-11-11T04:52:30.001Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "solutions/0066-plus-one/0066-plus-one.cpp",
           "sha": "c3e1f0552ba4f178d8c51447927ceff8dce8580a",
           "lastSyncedAt": "2026-11-11T04:49:48.700Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "problemName": "0121-best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "folderPath": "solutions/0121-best-time-to-buy-and-sell-stock/",
+      "readmePath": "solutions/0121-best-time-to-buy-and-sell-stock/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0121-best-time-to-buy-and-sell-stock.cpp",
+          "path": "solutions/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.cpp",
+          "sha": "82762b7dbe0b0223a7faeb5ad63c8245ca8673a9",
+          "lastSyncedAt": "2026-11-11T04:52:30.001Z"
         }
       ]
     },
