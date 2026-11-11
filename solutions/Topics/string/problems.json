@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-11T05:04:39.556Z",
+  "updatedAt": "2026-11-11T05:05:14.656Z",
   "problems": [
     {
       "frontendId": "3",
@@ -83,7 +83,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "path": "solutions/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "dfa783cc22c8bb5b98e3c4b8d0c6992f26e55be4",
-          "lastSyncedAt": "2026-11-11T04:50:12.170Z"
+          "lastSyncedAt": "2026-11-11T05:05:14.656Z"
         }
       ]
     },
