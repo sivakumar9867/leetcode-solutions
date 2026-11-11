@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-11-11T05:41:18.850Z",
+  "updatedAt": "2026-11-11T05:41:25.308Z",
   "problems": [
     {
       "frontendId": "204",
@@ -63,7 +63,7 @@
           "filename": "2413-smallest-even-multiple.cpp",
           "path": "solutions/2413-smallest-even-multiple/2413-smallest-even-multiple.cpp",
           "sha": "b76b1368512e33bbc4a9e0f0d065f82b83a61316",
-          "lastSyncedAt": "2026-11-11T05:27:09.983Z"
+          "lastSyncedAt": "2026-11-11T05:41:25.308Z"
         }
       ]
     },
