@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-11T04:46:13.464Z",
+  "updatedAt": "2026-11-11T04:48:17.777Z",
   "problems": [
     {
       "frontendId": "15",
@@ -104,6 +104,26 @@
           "path": "solutions/0268-missing-number/0268-missing-number.cpp",
           "sha": "08d9e5e62f97acda776e2fa3d339e43bccbe4f7f",
           "lastSyncedAt": "2026-11-11T04:45:57.774Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "solutions/0349-intersection-of-two-arrays/",
+      "readmePath": "solutions/0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0349-intersection-of-two-arrays.cpp",
+          "path": "solutions/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
+          "sha": "dd8499807efc1eab11e42bda8db1d2762a58b315",
+          "lastSyncedAt": "2026-11-11T04:48:17.777Z"
         }
       ]
     },
