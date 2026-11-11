@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:46:32.199Z",
+  "updatedAt": "2026-11-11T04:46:42.953Z",
   "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "solutions/0004-median-of-two-sorted-arrays/",
+      "readmePath": "solutions/0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0004-median-of-two-sorted-arrays.cpp",
+          "path": "solutions/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
+          "sha": "481ec355d97085427822e57902da639ea2594e29",
+          "lastSyncedAt": "2026-11-11T04:46:42.953Z"
+        }
+      ]
+    },
     {
       "frontendId": "14",
       "title": "Longest Common Prefix",
