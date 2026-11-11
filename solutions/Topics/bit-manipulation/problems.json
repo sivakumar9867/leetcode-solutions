@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-11T05:59:33.671Z",
+  "updatedAt": "2026-11-11T05:59:38.766Z",
   "problems": [
     {
       "frontendId": "67",
@@ -183,7 +183,7 @@
           "filename": "1342-number-of-steps-to-reduce-a-number-to-zero.cpp",
           "path": "solutions/1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.cpp",
           "sha": "ddce043909d9baa8fc2eb2a02c5b849981bf8dad",
-          "lastSyncedAt": "2026-11-11T05:43:42.537Z"
+          "lastSyncedAt": "2026-11-11T05:59:38.766Z"
         }
       ]
     },
