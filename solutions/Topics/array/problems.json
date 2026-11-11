@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T05:03:31.689Z",
+  "updatedAt": "2026-11-11T05:03:49.309Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1203,7 +1203,7 @@
           "filename": "2215-find-the-difference-of-two-arrays.cpp",
           "path": "solutions/2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.cpp",
           "sha": "192a0bca7c3042702cf10e220ba9602c4e5f218a",
-          "lastSyncedAt": "2026-11-11T04:48:10.974Z"
+          "lastSyncedAt": "2026-11-11T05:03:49.309Z"
         }
       ]
     },
