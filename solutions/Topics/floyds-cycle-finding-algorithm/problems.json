@@ -5,7 +5,7 @@
     "name": "Floyd's Cycle Finding Algorithm",
     "tagId": "122033"
   },
-  "updatedAt": "2026-11-11T04:45:02.078Z",
+  "updatedAt": "2026-11-11T04:48:00.434Z",
   "problems": [
     {
       "frontendId": "141",
@@ -44,6 +44,26 @@
           "path": "solutions/0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp",
           "sha": "8774e3c7e7edd5d138df9eacf260e76ef7c5c21f",
           "lastSyncedAt": "2026-11-11T04:43:35.626Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "problemName": "0202-happy-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+      "folderPath": "solutions/0202-happy-number/",
+      "readmePath": "solutions/0202-happy-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0202-happy-number.cpp",
+          "path": "solutions/0202-happy-number/0202-happy-number.cpp",
+          "sha": "636a3a6b97086fb538ce775c68c0f10f465024d9",
+          "lastSyncedAt": "2026-11-11T04:48:00.434Z"
         }
       ]
     },
