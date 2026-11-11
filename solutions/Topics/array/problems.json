@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:39:06.869Z",
+  "updatedAt": "2026-11-11T04:39:14.113Z",
   "problems": [
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "solutions/0150-evaluate-reverse-polish-notation/",
+      "readmePath": "solutions/0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0150-evaluate-reverse-polish-notation.cpp",
+          "path": "solutions/0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.cpp",
+          "sha": "42b38764969d9d08a31ce6dc250246a666bfe1f0",
+          "lastSyncedAt": "2026-11-11T04:39:14.113Z"
+        }
+      ]
+    },
     {
       "frontendId": "448",
       "title": "Find All Numbers Disappeared in an Array",
