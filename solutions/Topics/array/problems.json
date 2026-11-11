@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T05:06:06.472Z",
+  "updatedAt": "2026-11-11T05:06:11.102Z",
   "problems": [
     {
       "frontendId": "1",
@@ -803,7 +803,7 @@
           "filename": "0977-squares-of-a-sorted-array.cpp",
           "path": "solutions/0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.cpp",
           "sha": "67b485263c418573b168ba1424d8bfd9db0a5e51",
-          "lastSyncedAt": "2026-11-11T04:51:37.751Z"
+          "lastSyncedAt": "2026-11-11T05:06:11.102Z"
         }
       ]
     },
