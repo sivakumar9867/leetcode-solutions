@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-11T04:47:03.412Z",
+  "updatedAt": "2026-11-11T04:52:53.333Z",
   "problems": [
     {
       "frontendId": "2",
@@ -104,6 +104,26 @@
           "path": "solutions/0224-basic-calculator/0224-basic-calculator.cpp",
           "sha": "081e08b9103bf0fb645d70f20161f187e4e6cd1d",
           "lastSyncedAt": "2026-11-11T04:42:32.621Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "problemName": "0342-power-of-four",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+      "folderPath": "solutions/0342-power-of-four/",
+      "readmePath": "solutions/0342-power-of-four/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0342-power-of-four.cpp",
+          "path": "solutions/0342-power-of-four/0342-power-of-four.cpp",
+          "sha": "310cd9ced877119144b8d842ac5371fdfcfa3a4d",
+          "lastSyncedAt": "2026-11-11T04:52:53.333Z"
         }
       ]
     },
