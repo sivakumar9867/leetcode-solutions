@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:48:31.272Z",
+  "updatedAt": "2026-11-11T04:48:39.756Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "solutions/0189-rotate-array/0189-rotate-array.cpp",
           "sha": "07f2531bbf8d0ba105db7f3a3fe436072992430a",
           "lastSyncedAt": "2026-11-11T04:45:47.440Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "problemName": "0204-count-primes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+      "folderPath": "solutions/0204-count-primes/",
+      "readmePath": "solutions/0204-count-primes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0204-count-primes.cpp",
+          "path": "solutions/0204-count-primes/0204-count-primes.cpp",
+          "sha": "c5d3a38441124bb7884205dd6bd403acbe03f375",
+          "lastSyncedAt": "2026-11-11T04:48:39.756Z"
         }
       ]
     },
