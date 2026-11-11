@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-11T05:28:45.626Z",
+  "updatedAt": "2026-11-11T05:28:57.843Z",
   "problems": [
     {
       "frontendId": "15",
@@ -423,7 +423,7 @@
           "filename": "2160-minimum-sum-of-four-digit-number-after-splitting-digits.cpp",
           "path": "solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/2160-minimum-sum-of-four-digit-number-after-splitting-digits.cpp",
           "sha": "0a210db340b6f3fe2e4204606ae115e13a576c8c",
-          "lastSyncedAt": "2026-11-11T05:15:10.871Z"
+          "lastSyncedAt": "2026-11-11T05:28:57.843Z"
         }
       ]
     }
