@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:48:00.434Z",
+  "updatedAt": "2026-11-11T04:48:39.756Z",
   "problems": [
     {
       "frontendId": "2",
@@ -124,6 +124,26 @@
           "path": "solutions/0202-happy-number/0202-happy-number.cpp",
           "sha": "636a3a6b97086fb538ce775c68c0f10f465024d9",
           "lastSyncedAt": "2026-11-11T04:48:00.434Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "problemName": "0204-count-primes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+      "folderPath": "solutions/0204-count-primes/",
+      "readmePath": "solutions/0204-count-primes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0204-count-primes.cpp",
+          "path": "solutions/0204-count-primes/0204-count-primes.cpp",
+          "sha": "c5d3a38441124bb7884205dd6bd403acbe03f375",
+          "lastSyncedAt": "2026-11-11T04:48:39.756Z"
         }
       ]
     },
