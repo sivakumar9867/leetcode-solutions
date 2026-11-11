@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-11T04:52:12.726Z",
+  "updatedAt": "2026-11-11T04:56:03.807Z",
   "problems": [
     {
       "frontendId": "1",
@@ -323,7 +323,7 @@
           "filename": "0389-find-the-difference.cpp",
           "path": "solutions/0389-find-the-difference/0389-find-the-difference.cpp",
           "sha": "63ad968f61c3bb3aa26892f936c845152f1a1d4f",
-          "lastSyncedAt": "2026-11-11T04:36:31.470Z"
+          "lastSyncedAt": "2026-11-11T04:56:03.807Z"
         }
       ]
     },
