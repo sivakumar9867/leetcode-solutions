@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-11T04:46:32.199Z",
+  "updatedAt": "2026-11-11T04:46:52.159Z",
   "problems": [
+    {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "problemName": "0003-longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "folderPath": "solutions/0003-longest-substring-without-repeating-characters/",
+      "readmePath": "solutions/0003-longest-substring-without-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0003-longest-substring-without-repeating-characters.cpp",
+          "path": "solutions/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.cpp",
+          "sha": "0bdd41c14283caeab0df3ed33966d33549a41704",
+          "lastSyncedAt": "2026-11-11T04:46:52.159Z"
+        }
+      ]
+    },
     {
       "frontendId": "14",
       "title": "Longest Common Prefix",
