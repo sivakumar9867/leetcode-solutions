@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-11T04:39:32.251Z",
+  "updatedAt": "2026-11-11T04:40:09.025Z",
   "problems": [
     {
       "frontendId": "389",
@@ -84,6 +84,26 @@
           "path": "solutions/1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.cpp",
           "sha": "1d136fbaef7fb65836d72088703926dcda8b8de5",
           "lastSyncedAt": "2026-11-11T04:39:32.251Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "solutions/1512-number-of-good-pairs/",
+      "readmePath": "solutions/1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1512-number-of-good-pairs.cpp",
+          "path": "solutions/1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
+          "sha": "ecaaabf1a052658800a66a1fd786227d94436341",
+          "lastSyncedAt": "2026-11-11T04:40:09.025Z"
         }
       ]
     },
