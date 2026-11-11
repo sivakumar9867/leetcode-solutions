@@ -5,7 +5,7 @@
     "name": "Interactive",
     "tagId": "61059"
   },
-  "updatedAt": "2026-11-11T05:12:03.061Z",
+  "updatedAt": "2026-11-11T05:25:38.682Z",
   "problems": [
     {
       "frontendId": "278",
@@ -43,7 +43,7 @@
           "filename": "0374-guess-number-higher-or-lower.cpp",
           "path": "solutions/0374-guess-number-higher-or-lower/0374-guess-number-higher-or-lower.cpp",
           "sha": "91c552fedd6b4a7f6be789e8a747f28af77875d4",
-          "lastSyncedAt": "2026-11-11T05:11:56.811Z"
+          "lastSyncedAt": "2026-11-11T05:25:38.682Z"
         }
       ]
     }
