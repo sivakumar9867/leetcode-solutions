@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-11T05:00:33.508Z",
+  "updatedAt": "2026-11-11T05:00:42.329Z",
   "problems": [
     {
       "frontendId": "15",
@@ -63,7 +63,7 @@
           "filename": "0019-remove-nth-node-from-end-of-list.cpp",
           "path": "solutions/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.cpp",
           "sha": "1d6c4d353585204d0950cd3e6d5e176f7fca3083",
-          "lastSyncedAt": "2026-11-11T04:43:48.836Z"
+          "lastSyncedAt": "2026-11-11T05:00:42.329Z"
         }
       ]
     },
