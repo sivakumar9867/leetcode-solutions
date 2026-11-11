@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:39:23.875Z",
+  "updatedAt": "2026-11-11T04:39:32.251Z",
   "problems": [
     {
       "frontendId": "150",
@@ -144,6 +144,26 @@
           "path": "solutions/1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.cpp",
           "sha": "757577ec240a19f04fbc0c44f07bc9e0047969a6",
           "lastSyncedAt": "2026-11-11T04:36:21.008Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1365",
+      "title": "How Many Numbers Are Smaller Than the Current Number",
+      "slug": "how-many-numbers-are-smaller-than-the-current-number",
+      "problemName": "1365-how-many-numbers-are-smaller-than-the-current-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+      "folderPath": "solutions/1365-how-many-numbers-are-smaller-than-the-current-number/",
+      "readmePath": "solutions/1365-how-many-numbers-are-smaller-than-the-current-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1365-how-many-numbers-are-smaller-than-the-current-number.cpp",
+          "path": "solutions/1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.cpp",
+          "sha": "1d136fbaef7fb65836d72088703926dcda8b8de5",
+          "lastSyncedAt": "2026-11-11T04:39:32.251Z"
         }
       ]
     },
