@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-11T04:36:31.470Z",
+  "updatedAt": "2026-11-11T04:39:59.128Z",
   "problems": [
     {
       "frontendId": "389",
@@ -24,6 +24,26 @@
           "path": "solutions/0389-find-the-difference/0389-find-the-difference.cpp",
           "sha": "63ad968f61c3bb3aa26892f936c845152f1a1d4f",
           "lastSyncedAt": "2026-11-11T04:36:31.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "415",
+      "title": "Add Strings",
+      "slug": "add-strings",
+      "problemName": "0415-add-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-strings/",
+      "folderPath": "solutions/0415-add-strings/",
+      "readmePath": "solutions/0415-add-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0415-add-strings.cpp",
+          "path": "solutions/0415-add-strings/0415-add-strings.cpp",
+          "sha": "69d6f6fa77bfc0680c4e96f18daadaae8c30d359",
+          "lastSyncedAt": "2026-11-11T04:39:59.128Z"
         }
       ]
     },
