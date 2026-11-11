@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T05:00:24.912Z",
+  "updatedAt": "2026-11-11T05:01:32.245Z",
   "problems": [
     {
       "frontendId": "1",
@@ -523,7 +523,7 @@
           "filename": "0287-find-the-duplicate-number.cpp",
           "path": "solutions/0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
           "sha": "f94dfe32ffbd313d616852f9b96f1fcc5e5eddbd",
-          "lastSyncedAt": "2026-11-11T04:45:02.078Z"
+          "lastSyncedAt": "2026-11-11T05:01:32.245Z"
         }
       ]
     },
