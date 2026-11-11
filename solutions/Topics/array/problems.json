@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:50:39.255Z",
+  "updatedAt": "2026-11-11T04:50:53.810Z",
   "problems": [
     {
       "frontendId": "1",
@@ -604,6 +604,26 @@
           "path": "solutions/0747-largest-number-at-least-twice-of-others/0747-largest-number-at-least-twice-of-others.cpp",
           "sha": "797d649f4ad4f47ae342ac8da01015e9f60c45da",
           "lastSyncedAt": "2026-11-11T04:49:56.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "905",
+      "title": "Sort Array By Parity",
+      "slug": "sort-array-by-parity",
+      "problemName": "0905-sort-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity/",
+      "folderPath": "solutions/0905-sort-array-by-parity/",
+      "readmePath": "solutions/0905-sort-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0905-sort-array-by-parity.cpp",
+          "path": "solutions/0905-sort-array-by-parity/0905-sort-array-by-parity.cpp",
+          "sha": "b2d42537372e7e40dccb96e9939dec97fa230906",
+          "lastSyncedAt": "2026-11-11T04:50:53.810Z"
         }
       ]
     },
