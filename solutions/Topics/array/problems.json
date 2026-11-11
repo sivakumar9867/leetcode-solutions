@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:52:38.204Z",
+  "updatedAt": "2026-11-11T04:53:36.574Z",
   "problems": [
     {
       "frontendId": "1",
@@ -204,6 +204,26 @@
           "path": "solutions/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.cpp",
           "sha": "82762b7dbe0b0223a7faeb5ad63c8245ca8673a9",
           "lastSyncedAt": "2026-11-11T04:52:30.001Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "solutions/0136-single-number/",
+      "readmePath": "solutions/0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0136-single-number.cpp",
+          "path": "solutions/0136-single-number/0136-single-number.cpp",
+          "sha": "9d54ae94a62693e2f6c1c161536c47cacbdafa6a",
+          "lastSyncedAt": "2026-11-11T04:53:36.574Z"
         }
       ]
     },
