@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:37:26.815Z",
+  "updatedAt": "2026-11-11T04:37:35.416Z",
   "problems": [
     {
       "frontendId": "989",
@@ -104,6 +104,26 @@
           "path": "solutions/3264-final-array-state-after-k-multiplication-operations-i/3264-final-array-state-after-k-multiplication-operations-i.cpp",
           "sha": "6e2ab3b200f2d072d3f61ab8d6ea3d3b7bff39bc",
           "lastSyncedAt": "2026-11-11T04:37:03.409Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3945",
+      "title": "Digit Frequency Score",
+      "slug": "digit-frequency-score",
+      "problemName": "3945-digit-frequency-score",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/digit-frequency-score/",
+      "folderPath": "solutions/3945-digit-frequency-score/",
+      "readmePath": "solutions/3945-digit-frequency-score/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3945-digit-frequency-score.cpp",
+          "path": "solutions/3945-digit-frequency-score/3945-digit-frequency-score.cpp",
+          "sha": "311a33221c6fec3837f4dd2cd73cee6d34264dc5",
+          "lastSyncedAt": "2026-11-11T04:37:35.416Z"
         }
       ]
     }
