@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:38:35.971Z",
+  "updatedAt": "2026-11-11T04:38:49.352Z",
   "problems": [
     {
       "frontendId": "258",
@@ -24,6 +24,26 @@
           "path": "solutions/0258-add-digits/0258-add-digits.cpp",
           "sha": "972f496ef502ecf3810d8747fd1d500a3e8041bf",
           "lastSyncedAt": "2026-11-11T04:38:26.596Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "263",
+      "title": "Ugly Number",
+      "slug": "ugly-number",
+      "problemName": "0263-ugly-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ugly-number/",
+      "folderPath": "solutions/0263-ugly-number/",
+      "readmePath": "solutions/0263-ugly-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0263-ugly-number.cpp",
+          "path": "solutions/0263-ugly-number/0263-ugly-number.cpp",
+          "sha": "1e4e993407b0d72216420525046bc7c087bc569c",
+          "lastSyncedAt": "2026-11-11T04:38:49.352Z"
         }
       ]
     },
