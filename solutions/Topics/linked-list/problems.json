@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-11T05:47:29.768Z",
+  "updatedAt": "2026-11-11T05:47:47.072Z",
   "problems": [
     {
       "frontendId": "2",
@@ -163,7 +163,7 @@
           "filename": "0707-design-linked-list.cpp",
           "path": "solutions/0707-design-linked-list/0707-design-linked-list.cpp",
           "sha": "7a38e5378edf820a5c11c3ac8c4b1cf36bc77294",
-          "lastSyncedAt": "2026-11-11T05:33:19.568Z"
+          "lastSyncedAt": "2026-11-11T05:47:47.072Z"
         }
       ]
     },
