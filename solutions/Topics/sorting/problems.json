@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-11T05:40:47.775Z",
+  "updatedAt": "2026-11-11T05:42:03.428Z",
   "problems": [
     {
       "frontendId": "15",
@@ -383,7 +383,7 @@
           "filename": "1365-how-many-numbers-are-smaller-than-the-current-number.cpp",
           "path": "solutions/1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.cpp",
           "sha": "1d136fbaef7fb65836d72088703926dcda8b8de5",
-          "lastSyncedAt": "2026-11-11T05:27:48.384Z"
+          "lastSyncedAt": "2026-11-11T05:42:03.428Z"
         }
       ]
     },
