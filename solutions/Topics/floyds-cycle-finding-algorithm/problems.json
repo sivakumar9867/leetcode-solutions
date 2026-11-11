@@ -5,7 +5,7 @@
     "name": "Floyd's Cycle Finding Algorithm",
     "tagId": "122033"
   },
-  "updatedAt": "2026-11-11T04:44:03.053Z",
+  "updatedAt": "2026-11-11T04:45:02.078Z",
   "problems": [
     {
       "frontendId": "141",
@@ -44,6 +44,26 @@
           "path": "solutions/0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp",
           "sha": "8774e3c7e7edd5d138df9eacf260e76ef7c5c21f",
           "lastSyncedAt": "2026-11-11T04:43:35.626Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "solutions/0287-find-the-duplicate-number/",
+      "readmePath": "solutions/0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0287-find-the-duplicate-number.cpp",
+          "path": "solutions/0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
+          "sha": "f94dfe32ffbd313d616852f9b96f1fcc5e5eddbd",
+          "lastSyncedAt": "2026-11-11T04:45:02.078Z"
         }
       ]
     }
