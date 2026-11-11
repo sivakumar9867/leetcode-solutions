@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-11T06:01:40.682Z",
+  "updatedAt": "2026-11-11T06:01:58.702Z",
   "problems": [
     {
       "frontendId": "15",
@@ -154,8 +154,8 @@
       "problemName": "0125-valid-palindrome",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
-      "folderPath": "solutions/0125-valid-palindrome/",
-      "readmePath": "solutions/0125-valid-palindrome/README.md",
+      "folderPath": "solutions/Easy/0125-valid-palindrome/",
+      "readmePath": "solutions/Easy/0125-valid-palindrome/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -163,7 +163,7 @@
           "filename": "0125-valid-palindrome.cpp",
           "path": "solutions/0125-valid-palindrome/0125-valid-palindrome.cpp",
           "sha": "1896ddb2f4e6b720969442492579b6c4b5618e3f",
-          "lastSyncedAt": "2026-11-11T05:45:43.707Z"
+          "lastSyncedAt": "2026-11-11T06:01:58.702Z"
         }
       ]
     },
