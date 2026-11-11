@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T06:00:38.010Z",
+  "updatedAt": "2026-11-11T06:00:50.495Z",
   "problems": [
     {
       "frontendId": "1",
@@ -434,8 +434,8 @@
       "problemName": "0228-summary-ranges",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/summary-ranges/",
-      "folderPath": "solutions/0228-summary-ranges/",
-      "readmePath": "solutions/0228-summary-ranges/README.md",
+      "folderPath": "solutions/Easy/0228-summary-ranges/",
+      "readmePath": "solutions/Easy/0228-summary-ranges/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -443,7 +443,7 @@
           "filename": "0228-summary-ranges.cpp",
           "path": "solutions/0228-summary-ranges/0228-summary-ranges.cpp",
           "sha": "8bf49365380df1c93e9698387ddb3d69677b8714",
-          "lastSyncedAt": "2026-11-11T05:44:46.171Z"
+          "lastSyncedAt": "2026-11-11T06:00:50.495Z"
         }
       ]
     },
