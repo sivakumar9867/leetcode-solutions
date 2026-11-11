@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:40:41.886Z",
+  "updatedAt": "2026-11-11T04:40:47.934Z",
   "problems": [
     {
       "frontendId": "67",
@@ -224,6 +224,26 @@
           "path": "solutions/1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
           "sha": "ecaaabf1a052658800a66a1fd786227d94436341",
           "lastSyncedAt": "2026-11-11T04:40:09.025Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1518",
+      "title": "Water Bottles",
+      "slug": "water-bottles",
+      "problemName": "1518-water-bottles",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/water-bottles/",
+      "folderPath": "solutions/1518-water-bottles/",
+      "readmePath": "solutions/1518-water-bottles/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1518-water-bottles.cpp",
+          "path": "solutions/1518-water-bottles/1518-water-bottles.cpp",
+          "sha": "613531b61e7b7fb06c171e39c92353920f767397",
+          "lastSyncedAt": "2026-11-11T04:40:47.934Z"
         }
       ]
     },
