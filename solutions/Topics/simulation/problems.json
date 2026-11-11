@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-11T05:55:34.605Z",
+  "updatedAt": "2026-11-11T05:56:14.031Z",
   "problems": [
     {
       "frontendId": "67",
@@ -183,7 +183,7 @@
           "filename": "3264-final-array-state-after-k-multiplication-operations-i.cpp",
           "path": "solutions/3264-final-array-state-after-k-multiplication-operations-i/3264-final-array-state-after-k-multiplication-operations-i.cpp",
           "sha": "6e2ab3b200f2d072d3f61ab8d6ea3d3b7bff39bc",
-          "lastSyncedAt": "2026-11-11T05:40:23.255Z"
+          "lastSyncedAt": "2026-11-11T05:56:14.031Z"
         }
       ]
     },
