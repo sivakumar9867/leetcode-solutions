@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-11T04:52:45.552Z",
+  "updatedAt": "2026-11-11T04:53:16.302Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "solutions/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "481ec355d97085427822e57902da639ea2594e29",
           "lastSyncedAt": "2026-11-11T04:46:42.953Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "problemName": "0069-sqrtx",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sqrtx/",
+      "folderPath": "solutions/0069-sqrtx/",
+      "readmePath": "solutions/0069-sqrtx/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0069-sqrtx.cpp",
+          "path": "solutions/0069-sqrtx/0069-sqrtx.cpp",
+          "sha": "f6a8d76f2fe31ca0153a9371fc79f113f7a1e70d",
+          "lastSyncedAt": "2026-11-11T04:53:16.302Z"
         }
       ]
     },
