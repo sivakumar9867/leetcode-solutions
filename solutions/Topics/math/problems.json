@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:38:26.596Z",
+  "updatedAt": "2026-11-11T04:38:35.971Z",
   "problems": [
     {
       "frontendId": "258",
@@ -104,6 +104,26 @@
           "path": "solutions/1323-maximum-69-number/1323-maximum-69-number.cpp",
           "sha": "ac99b923af646b0c87d41cf510fede3246a882c8",
           "lastSyncedAt": "2026-11-11T04:37:26.815Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2413",
+      "title": "Smallest Even Multiple",
+      "slug": "smallest-even-multiple",
+      "problemName": "2413-smallest-even-multiple",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-even-multiple/",
+      "folderPath": "solutions/2413-smallest-even-multiple/",
+      "readmePath": "solutions/2413-smallest-even-multiple/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2413-smallest-even-multiple.cpp",
+          "path": "solutions/2413-smallest-even-multiple/2413-smallest-even-multiple.cpp",
+          "sha": "b76b1368512e33bbc4a9e0f0d065f82b83a61316",
+          "lastSyncedAt": "2026-11-11T04:38:35.971Z"
         }
       ]
     },
