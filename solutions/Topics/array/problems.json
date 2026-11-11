@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:59:12.403Z",
+  "updatedAt": "2026-11-11T04:59:16.903Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1283,7 +1283,7 @@
           "filename": "3512-minimum-operations-to-make-array-sum-divisible-by-k.cpp",
           "path": "solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/3512-minimum-operations-to-make-array-sum-divisible-by-k.cpp",
           "sha": "8a511c10d9d47bc2b2d3c1a94e2e8ae05a21596c",
-          "lastSyncedAt": "2026-11-11T04:41:41.722Z"
+          "lastSyncedAt": "2026-11-11T04:59:16.903Z"
         }
       ]
     },
