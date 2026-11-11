@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:52:53.333Z",
+  "updatedAt": "2026-11-11T04:53:02.939Z",
   "problems": [
     {
       "frontendId": "2",
@@ -264,6 +264,26 @@
           "path": "solutions/0268-missing-number/0268-missing-number.cpp",
           "sha": "08d9e5e62f97acda776e2fa3d339e43bccbe4f7f",
           "lastSyncedAt": "2026-11-11T04:45:57.774Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "problemName": "0326-power-of-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-three/",
+      "folderPath": "solutions/0326-power-of-three/",
+      "readmePath": "solutions/0326-power-of-three/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0326-power-of-three.cpp",
+          "path": "solutions/0326-power-of-three/0326-power-of-three.cpp",
+          "sha": "75edb903ce7d7013e685ef6ec0063163f76d0436",
+          "lastSyncedAt": "2026-11-11T04:53:02.939Z"
         }
       ]
     },
