@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-11T05:49:23.395Z",
+  "updatedAt": "2026-11-11T05:49:31.761Z",
   "problems": [
     {
       "frontendId": "15",
@@ -223,7 +223,7 @@
           "filename": "0167-two-sum-ii-input-array-is-sorted.cpp",
           "path": "solutions/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp",
           "sha": "f33d3ecaa970ab98d0e92decf91a98399ec650f9",
-          "lastSyncedAt": "2026-11-11T05:34:56.559Z"
+          "lastSyncedAt": "2026-11-11T05:49:31.761Z"
         }
       ]
     },
