@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T05:37:48.099Z",
+  "updatedAt": "2026-11-11T05:37:54.069Z",
   "problems": [
     {
       "frontendId": "1",
@@ -203,7 +203,7 @@
           "filename": "0053-maximum-subarray.cpp",
           "path": "solutions/0053-maximum-subarray/0053-maximum-subarray.cpp",
           "sha": "d9dfb0bda09f7f1ba97e362bc307ba839698014f",
-          "lastSyncedAt": "2026-11-11T05:24:21.526Z"
+          "lastSyncedAt": "2026-11-11T05:37:54.069Z"
         }
       ]
     },
