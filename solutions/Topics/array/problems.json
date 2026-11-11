@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T05:20:54.308Z",
+  "updatedAt": "2026-11-11T05:21:04.510Z",
   "problems": [
     {
       "frontendId": "1",
@@ -503,7 +503,7 @@
           "filename": "0283-move-zeroes.cpp",
           "path": "solutions/0283-move-zeroes/0283-move-zeroes.cpp",
           "sha": "58aae7340e1f7b9af9fcb610e20b470bf4567c83",
-          "lastSyncedAt": "2026-11-11T05:04:44.815Z"
+          "lastSyncedAt": "2026-11-11T05:21:04.510Z"
         }
       ]
     },
