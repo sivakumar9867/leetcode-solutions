@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:52:07.006Z",
+  "updatedAt": "2026-11-11T04:52:45.552Z",
   "problems": [
     {
       "frontendId": "2",
@@ -264,6 +264,26 @@
           "path": "solutions/0268-missing-number/0268-missing-number.cpp",
           "sha": "08d9e5e62f97acda776e2fa3d339e43bccbe4f7f",
           "lastSyncedAt": "2026-11-11T04:45:57.774Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "367",
+      "title": "Valid Perfect Square",
+      "slug": "valid-perfect-square",
+      "problemName": "0367-valid-perfect-square",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-perfect-square/",
+      "folderPath": "solutions/0367-valid-perfect-square/",
+      "readmePath": "solutions/0367-valid-perfect-square/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0367-valid-perfect-square.cpp",
+          "path": "solutions/0367-valid-perfect-square/0367-valid-perfect-square.cpp",
+          "sha": "4c3074bd8039fcea2e59fbde5ccb578339980e12",
+          "lastSyncedAt": "2026-11-11T04:52:45.552Z"
         }
       ]
     },
