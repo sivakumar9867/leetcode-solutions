@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-11T04:36:31.470Z",
+  "updatedAt": "2026-11-11T04:37:35.416Z",
   "problems": [
     {
       "frontendId": "389",
@@ -24,6 +24,26 @@
           "path": "solutions/0389-find-the-difference/0389-find-the-difference.cpp",
           "sha": "63ad968f61c3bb3aa26892f936c845152f1a1d4f",
           "lastSyncedAt": "2026-11-11T04:36:31.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3945",
+      "title": "Digit Frequency Score",
+      "slug": "digit-frequency-score",
+      "problemName": "3945-digit-frequency-score",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/digit-frequency-score/",
+      "folderPath": "solutions/3945-digit-frequency-score/",
+      "readmePath": "solutions/3945-digit-frequency-score/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3945-digit-frequency-score.cpp",
+          "path": "solutions/3945-digit-frequency-score/3945-digit-frequency-score.cpp",
+          "sha": "311a33221c6fec3837f4dd2cd73cee6d34264dc5",
+          "lastSyncedAt": "2026-11-11T04:37:35.416Z"
         }
       ]
     }
