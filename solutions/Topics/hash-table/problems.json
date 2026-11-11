@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-11T04:40:09.025Z",
+  "updatedAt": "2026-11-11T04:42:50.911Z",
   "problems": [
+    {
+      "frontendId": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "problemName": "0290-word-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+      "folderPath": "solutions/0290-word-pattern/",
+      "readmePath": "solutions/0290-word-pattern/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0290-word-pattern.cpp",
+          "path": "solutions/0290-word-pattern/0290-word-pattern.cpp",
+          "sha": "8997e3e34adc45b6d12705da29ab50534d1f6151",
+          "lastSyncedAt": "2026-11-11T04:42:50.911Z"
+        }
+      ]
+    },
     {
       "frontendId": "389",
       "title": "Find the Difference",
