@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:35:23.164Z",
+  "updatedAt": "2026-11-11T04:35:34.347Z",
   "problems": [
     {
       "frontendId": "1991",
@@ -24,6 +24,26 @@
           "path": "solutions/1991-find-the-middle-index-in-array/1991-find-the-middle-index-in-array.cpp",
           "sha": "9d1f46d57c233eefdf5f167134f993b7291d3e2c",
           "lastSyncedAt": "2026-11-11T04:35:23.164Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2678",
+      "title": "Number of Senior Citizens",
+      "slug": "number-of-senior-citizens",
+      "problemName": "2678-number-of-senior-citizens",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-senior-citizens/",
+      "folderPath": "solutions/2678-number-of-senior-citizens/",
+      "readmePath": "solutions/2678-number-of-senior-citizens/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2678-number-of-senior-citizens.cpp",
+          "path": "solutions/2678-number-of-senior-citizens/2678-number-of-senior-citizens.cpp",
+          "sha": "70e9287fcaf99f08f18fdcd6c37392ea0b2c1db3",
+          "lastSyncedAt": "2026-11-11T04:35:34.347Z"
         }
       ]
     }
