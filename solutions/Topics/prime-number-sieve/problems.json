@@ -5,7 +5,7 @@
     "name": "Prime Number Sieve",
     "tagId": "122049"
   },
-  "updatedAt": "2026-11-11T05:48:47.677Z",
+  "updatedAt": "2026-11-11T06:04:55.641Z",
   "problems": [
     {
       "frontendId": "204",
@@ -14,8 +14,8 @@
       "problemName": "0204-count-primes",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
-      "folderPath": "solutions/0204-count-primes/",
-      "readmePath": "solutions/0204-count-primes/README.md",
+      "folderPath": "solutions/Medium/0204-count-primes/",
+      "readmePath": "solutions/Medium/0204-count-primes/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -23,7 +23,7 @@
           "filename": "0204-count-primes.cpp",
           "path": "solutions/0204-count-primes/0204-count-primes.cpp",
           "sha": "c5d3a38441124bb7884205dd6bd403acbe03f375",
-          "lastSyncedAt": "2026-11-11T05:48:47.677Z"
+          "lastSyncedAt": "2026-11-11T06:04:55.641Z"
         }
       ]
     }
