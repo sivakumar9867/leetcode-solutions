@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-11T04:50:12.170Z",
+  "updatedAt": "2026-11-11T04:50:53.810Z",
   "problems": [
     {
       "frontendId": "15",
@@ -384,6 +384,26 @@
           "path": "solutions/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.cpp",
           "sha": "fd05fca5293ddf3c324dfe4a5d9c41d51ec89e6a",
           "lastSyncedAt": "2026-11-11T04:44:12.887Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "905",
+      "title": "Sort Array By Parity",
+      "slug": "sort-array-by-parity",
+      "problemName": "0905-sort-array-by-parity",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity/",
+      "folderPath": "solutions/0905-sort-array-by-parity/",
+      "readmePath": "solutions/0905-sort-array-by-parity/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0905-sort-array-by-parity.cpp",
+          "path": "solutions/0905-sort-array-by-parity/0905-sort-array-by-parity.cpp",
+          "sha": "b2d42537372e7e40dccb96e9939dec97fa230906",
+          "lastSyncedAt": "2026-11-11T04:50:53.810Z"
         }
       ]
     }
