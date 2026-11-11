@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-11T04:40:31.290Z",
+  "updatedAt": "2026-11-11T04:40:47.934Z",
   "problems": [
     {
       "frontendId": "67",
@@ -104,6 +104,26 @@
           "path": "solutions/1441-build-an-array-with-stack-operations/1441-build-an-array-with-stack-operations.cpp",
           "sha": "dbfd5181e84d023ed1406152e14497ff8e80e1c8",
           "lastSyncedAt": "2026-11-11T04:39:23.875Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1518",
+      "title": "Water Bottles",
+      "slug": "water-bottles",
+      "problemName": "1518-water-bottles",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/water-bottles/",
+      "folderPath": "solutions/1518-water-bottles/",
+      "readmePath": "solutions/1518-water-bottles/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1518-water-bottles.cpp",
+          "path": "solutions/1518-water-bottles/1518-water-bottles.cpp",
+          "sha": "613531b61e7b7fb06c171e39c92353920f767397",
+          "lastSyncedAt": "2026-11-11T04:40:47.934Z"
         }
       ]
     },
