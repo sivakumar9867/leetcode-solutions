@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation",
+    "tagId": "61055"
+  },
+  "updatedAt": "2026-11-11T04:35:50.770Z",
+  "problems": [
+    {
+      "frontendId": "3701",
+      "title": "Compute Alternating Sum",
+      "slug": "compute-alternating-sum",
+      "problemName": "3701-compute-alternating-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/compute-alternating-sum/",
+      "folderPath": "solutions/3701-compute-alternating-sum/",
+      "readmePath": "solutions/3701-compute-alternating-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3701-compute-alternating-sum.cpp",
+          "path": "solutions/3701-compute-alternating-sum/3701-compute-alternating-sum.cpp",
+          "sha": "9ba0bae22985d8bfb97fadd59e6008896b93fb4e",
+          "lastSyncedAt": "2026-11-11T04:35:50.770Z"
+        }
+      ]
+    }
+  ]
+}
