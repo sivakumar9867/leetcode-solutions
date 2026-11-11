@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-11T04:37:35.416Z",
+  "updatedAt": "2026-11-11T04:37:42.467Z",
   "problems": [
     {
       "frontendId": "389",
@@ -24,6 +24,26 @@
           "path": "solutions/0389-find-the-difference/0389-find-the-difference.cpp",
           "sha": "63ad968f61c3bb3aa26892f936c845152f1a1d4f",
           "lastSyncedAt": "2026-11-11T04:36:31.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "solutions/0645-set-mismatch/",
+      "readmePath": "solutions/0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0645-set-mismatch.cpp",
+          "path": "solutions/0645-set-mismatch/0645-set-mismatch.cpp",
+          "sha": "8bfa55f6d044c2c7e8cea3be14488231b8f01271",
+          "lastSyncedAt": "2026-11-11T04:37:42.467Z"
         }
       ]
     },
