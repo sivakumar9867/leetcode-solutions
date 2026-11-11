@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-11T05:04:52.876Z",
+  "updatedAt": "2026-11-11T05:05:50.824Z",
   "problems": [
     {
       "frontendId": "4",
@@ -263,7 +263,7 @@
           "filename": "1346-check-if-n-and-its-double-exist.cpp",
           "path": "solutions/1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.cpp",
           "sha": "9014d188b74fa30ffa4f059f1d15ba4b99963c8a",
-          "lastSyncedAt": "2026-11-11T04:51:09.589Z"
+          "lastSyncedAt": "2026-11-11T05:05:50.824Z"
         }
       ]
     }
