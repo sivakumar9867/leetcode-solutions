@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:48:39.756Z",
+  "updatedAt": "2026-11-11T04:49:04.557Z",
   "problems": [
     {
       "frontendId": "1",
@@ -344,6 +344,26 @@
           "path": "solutions/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.cpp",
           "sha": "ad3bd595ed13ae550077fb1b26e7be483e92d33f",
           "lastSyncedAt": "2026-11-11T04:43:07.917Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "414",
+      "title": "Third Maximum Number",
+      "slug": "third-maximum-number",
+      "problemName": "0414-third-maximum-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
+      "folderPath": "solutions/0414-third-maximum-number/",
+      "readmePath": "solutions/0414-third-maximum-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0414-third-maximum-number.cpp",
+          "path": "solutions/0414-third-maximum-number/0414-third-maximum-number.cpp",
+          "sha": "691a488e0c42f696a8802226c64beb88668a7bc7",
+          "lastSyncedAt": "2026-11-11T04:49:04.557Z"
         }
       ]
     },
