@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:39:45.369Z",
+  "updatedAt": "2026-11-11T04:39:52.045Z",
   "problems": [
     {
       "frontendId": "150",
@@ -184,6 +184,26 @@
           "path": "solutions/1441-build-an-array-with-stack-operations/1441-build-an-array-with-stack-operations.cpp",
           "sha": "dbfd5181e84d023ed1406152e14497ff8e80e1c8",
           "lastSyncedAt": "2026-11-11T04:39:23.875Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "solutions/1470-shuffle-the-array/",
+      "readmePath": "solutions/1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1470-shuffle-the-array.cpp",
+          "path": "solutions/1470-shuffle-the-array/1470-shuffle-the-array.cpp",
+          "sha": "eda0d51ef8c900805bbe8603e2a9f43515a0f835",
+          "lastSyncedAt": "2026-11-11T04:39:52.045Z"
         }
       ]
     },
