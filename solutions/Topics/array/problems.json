@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T05:24:09.079Z",
+  "updatedAt": "2026-11-11T05:24:17.015Z",
   "problems": [
     {
       "frontendId": "1",
@@ -163,7 +163,7 @@
           "filename": "0035-search-insert-position.cpp",
           "path": "solutions/0035-search-insert-position/0035-search-insert-position.cpp",
           "sha": "686c69237306774c19c50578164457a00142f88f",
-          "lastSyncedAt": "2026-11-11T05:07:42.342Z"
+          "lastSyncedAt": "2026-11-11T05:24:17.015Z"
         }
       ]
     },
