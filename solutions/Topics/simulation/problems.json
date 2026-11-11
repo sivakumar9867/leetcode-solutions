@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-11T04:39:23.875Z",
+  "updatedAt": "2026-11-11T04:39:45.369Z",
   "problems": [
     {
       "frontendId": "258",
@@ -44,6 +44,26 @@
           "path": "solutions/1441-build-an-array-with-stack-operations/1441-build-an-array-with-stack-operations.cpp",
           "sha": "dbfd5181e84d023ed1406152e14497ff8e80e1c8",
           "lastSyncedAt": "2026-11-11T04:39:23.875Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "solutions/1929-concatenation-of-array/",
+      "readmePath": "solutions/1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1929-concatenation-of-array.cpp",
+          "path": "solutions/1929-concatenation-of-array/1929-concatenation-of-array.cpp",
+          "sha": "350793cb0cd9bf5da9cf3fe3da1657c5c9b538a2",
+          "lastSyncedAt": "2026-11-11T04:39:45.369Z"
         }
       ]
     },
