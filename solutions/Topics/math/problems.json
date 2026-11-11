@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:49:34.458Z",
+  "updatedAt": "2026-11-11T04:49:48.700Z",
   "problems": [
     {
       "frontendId": "2",
@@ -64,6 +64,26 @@
           "path": "solutions/0009-palindrome-number/0009-palindrome-number.cpp",
           "sha": "790dc3d3dc35881f2f21e4cbe19c1f8e60dd9181",
           "lastSyncedAt": "2026-11-11T04:49:34.458Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "solutions/0066-plus-one/",
+      "readmePath": "solutions/0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0066-plus-one.cpp",
+          "path": "solutions/0066-plus-one/0066-plus-one.cpp",
+          "sha": "c3e1f0552ba4f178d8c51447927ceff8dce8580a",
+          "lastSyncedAt": "2026-11-11T04:49:48.700Z"
         }
       ]
     },
