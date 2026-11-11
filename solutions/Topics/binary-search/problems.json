@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-11T05:55:41.933Z",
+  "updatedAt": "2026-11-11T05:55:47.924Z",
   "problems": [
     {
       "frontendId": "4",
@@ -123,7 +123,7 @@
           "filename": "0278-first-bad-version.cpp",
           "path": "solutions/0278-first-bad-version/0278-first-bad-version.cpp",
           "sha": "2c23c78b68d247d90f3bcc4476901e0c77f75058",
-          "lastSyncedAt": "2026-11-11T05:39:50.789Z"
+          "lastSyncedAt": "2026-11-11T05:55:47.924Z"
         }
       ]
     },
