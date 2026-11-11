@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-11T04:36:13.952Z",
+  "updatedAt": "2026-11-11T04:43:07.917Z",
   "problems": [
     {
       "frontendId": "278",
@@ -24,6 +24,26 @@
           "path": "solutions/0278-first-bad-version/0278-first-bad-version.cpp",
           "sha": "2c23c78b68d247d90f3bcc4476901e0c77f75058",
           "lastSyncedAt": "2026-11-11T04:36:13.952Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "350",
+      "title": "Intersection of Two Arrays II",
+      "slug": "intersection-of-two-arrays-ii",
+      "problemName": "0350-intersection-of-two-arrays-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+      "folderPath": "solutions/0350-intersection-of-two-arrays-ii/",
+      "readmePath": "solutions/0350-intersection-of-two-arrays-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0350-intersection-of-two-arrays-ii.cpp",
+          "path": "solutions/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.cpp",
+          "sha": "ad3bd595ed13ae550077fb1b26e7be483e92d33f",
+          "lastSyncedAt": "2026-11-11T04:43:07.917Z"
         }
       ]
     },
