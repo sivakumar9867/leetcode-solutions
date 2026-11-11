@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:47:03.412Z",
+  "updatedAt": "2026-11-11T04:47:37.671Z",
   "problems": [
     {
       "frontendId": "2",
@@ -264,6 +264,26 @@
           "path": "solutions/0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.cpp",
           "sha": "b5aee8dc12cbf202136a5cf7d8a21d9c7e769d5f",
           "lastSyncedAt": "2026-11-11T04:42:23.210Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "633",
+      "title": "Sum of Square Numbers",
+      "slug": "sum-of-square-numbers",
+      "problemName": "0633-sum-of-square-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-square-numbers/",
+      "folderPath": "solutions/0633-sum-of-square-numbers/",
+      "readmePath": "solutions/0633-sum-of-square-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0633-sum-of-square-numbers.cpp",
+          "path": "solutions/0633-sum-of-square-numbers/0633-sum-of-square-numbers.cpp",
+          "sha": "61bb520fe9dc990f41db61f4136a510c741048f2",
+          "lastSyncedAt": "2026-11-11T04:47:37.671Z"
         }
       ]
     },
