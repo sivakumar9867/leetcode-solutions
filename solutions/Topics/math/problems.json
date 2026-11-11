@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:37:54.175Z",
+  "updatedAt": "2026-11-11T04:38:17.922Z",
   "problems": [
     {
       "frontendId": "509",
@@ -124,6 +124,26 @@
           "path": "solutions/3264-final-array-state-after-k-multiplication-operations-i/3264-final-array-state-after-k-multiplication-operations-i.cpp",
           "sha": "6e2ab3b200f2d072d3f61ab8d6ea3d3b7bff39bc",
           "lastSyncedAt": "2026-11-11T04:37:03.409Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "slug": "gcd-of-odd-and-even-sums",
+      "problemName": "3658-gcd-of-odd-and-even-sums",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "folderPath": "solutions/3658-gcd-of-odd-and-even-sums/",
+      "readmePath": "solutions/3658-gcd-of-odd-and-even-sums/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3658-gcd-of-odd-and-even-sums.cpp",
+          "path": "solutions/3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.cpp",
+          "sha": "859dfa94b63552dc222bcc797119d0a1a7ce3ea9",
+          "lastSyncedAt": "2026-11-11T04:38:17.922Z"
         }
       ]
     },
