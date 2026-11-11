@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T06:05:58.133Z",
+  "updatedAt": "2026-11-11T06:06:19.629Z",
   "problems": [
     {
       "frontendId": "1",
@@ -834,8 +834,8 @@
       "problemName": "1051-height-checker",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/height-checker/",
-      "folderPath": "solutions/1051-height-checker/",
-      "readmePath": "solutions/1051-height-checker/README.md",
+      "folderPath": "solutions/Easy/1051-height-checker/",
+      "readmePath": "solutions/Easy/1051-height-checker/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -843,7 +843,7 @@
           "filename": "1051-height-checker.cpp",
           "path": "solutions/1051-height-checker/1051-height-checker.cpp",
           "sha": "e5ec11150af2dd39cb7adda7bc724cbce40069c5",
-          "lastSyncedAt": "2026-11-11T05:50:15.123Z"
+          "lastSyncedAt": "2026-11-11T06:06:19.629Z"
         }
       ]
     },
