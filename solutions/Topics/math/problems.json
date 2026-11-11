@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T04:41:08.215Z",
+  "updatedAt": "2026-11-11T04:41:13.761Z",
   "problems": [
     {
       "frontendId": "67",
@@ -264,6 +264,26 @@
           "path": "solutions/1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.cpp",
           "sha": "8da97be4044f0e7aebd50069795890da4488d638",
           "lastSyncedAt": "2026-11-11T04:40:41.886Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2160",
+      "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+      "slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
+      "problemName": "2160-minimum-sum-of-four-digit-number-after-splitting-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/",
+      "folderPath": "solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/",
+      "readmePath": "solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2160-minimum-sum-of-four-digit-number-after-splitting-digits.cpp",
+          "path": "solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/2160-minimum-sum-of-four-digit-number-after-splitting-digits.cpp",
+          "sha": "0a210db340b6f3fe2e4204606ae115e13a576c8c",
+          "lastSyncedAt": "2026-11-11T04:41:13.761Z"
         }
       ]
     },
