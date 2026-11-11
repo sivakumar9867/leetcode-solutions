@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy",
+    "tagId": "17"
+  },
+  "updatedAt": "2026-11-11T04:37:26.815Z",
+  "problems": [
+    {
+      "frontendId": "1323",
+      "title": "Maximum 69 Number",
+      "slug": "maximum-69-number",
+      "problemName": "1323-maximum-69-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-69-number/",
+      "folderPath": "solutions/1323-maximum-69-number/",
+      "readmePath": "solutions/1323-maximum-69-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1323-maximum-69-number.cpp",
+          "path": "solutions/1323-maximum-69-number/1323-maximum-69-number.cpp",
+          "sha": "ac99b923af646b0c87d41cf510fede3246a882c8",
+          "lastSyncedAt": "2026-11-11T04:37:26.815Z"
+        }
+      ]
+    }
+  ]
+}
