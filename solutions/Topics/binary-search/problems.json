@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-11T05:52:26.778Z",
+  "updatedAt": "2026-11-11T05:55:41.933Z",
   "problems": [
     {
       "frontendId": "4",
@@ -223,7 +223,7 @@
           "filename": "0374-guess-number-higher-or-lower.cpp",
           "path": "solutions/0374-guess-number-higher-or-lower/0374-guess-number-higher-or-lower.cpp",
           "sha": "91c552fedd6b4a7f6be789e8a747f28af77875d4",
-          "lastSyncedAt": "2026-11-11T05:39:43.210Z"
+          "lastSyncedAt": "2026-11-11T05:55:41.933Z"
         }
       ]
     },
