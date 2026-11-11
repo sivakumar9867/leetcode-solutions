@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:48:17.777Z",
+  "updatedAt": "2026-11-11T04:48:31.272Z",
   "problems": [
     {
       "frontendId": "1",
@@ -164,6 +164,26 @@
           "path": "solutions/0189-rotate-array/0189-rotate-array.cpp",
           "sha": "07f2531bbf8d0ba105db7f3a3fe436072992430a",
           "lastSyncedAt": "2026-11-11T04:45:47.440Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "solutions/0217-contains-duplicate/",
+      "readmePath": "solutions/0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0217-contains-duplicate.cpp",
+          "path": "solutions/0217-contains-duplicate/0217-contains-duplicate.cpp",
+          "sha": "4ada2cb73d019d117add6f96f10f60b2a61a26ba",
+          "lastSyncedAt": "2026-11-11T04:48:31.272Z"
         }
       ]
     },
