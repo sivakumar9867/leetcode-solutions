@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-11T04:53:43.912Z",
+  "updatedAt": "2026-11-11T04:53:55.112Z",
   "problems": [
     {
       "frontendId": "1",
@@ -144,6 +144,26 @@
           "path": "solutions/0027-remove-element/0027-remove-element.cpp",
           "sha": "b519f9124ee483389682cb724abd0a91d5916f61",
           "lastSyncedAt": "2026-11-11T04:51:23.595Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "solutions/0035-search-insert-position/",
+      "readmePath": "solutions/0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0035-search-insert-position.cpp",
+          "path": "solutions/0035-search-insert-position/0035-search-insert-position.cpp",
+          "sha": "686c69237306774c19c50578164457a00142f88f",
+          "lastSyncedAt": "2026-11-11T04:53:55.112Z"
         }
       ]
     },
