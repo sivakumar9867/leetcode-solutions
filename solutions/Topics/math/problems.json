@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T05:36:37.858Z",
+  "updatedAt": "2026-11-11T05:37:01.081Z",
   "problems": [
     {
       "frontendId": "2",
@@ -363,7 +363,7 @@
           "filename": "0367-valid-perfect-square.cpp",
           "path": "solutions/0367-valid-perfect-square/0367-valid-perfect-square.cpp",
           "sha": "4c3074bd8039fcea2e59fbde5ccb578339980e12",
-          "lastSyncedAt": "2026-11-11T05:23:30.445Z"
+          "lastSyncedAt": "2026-11-11T05:37:01.081Z"
         }
       ]
     },
