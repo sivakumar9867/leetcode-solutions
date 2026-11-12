@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-12T16:23:15.115Z",
+  "updatedAt": "2026-11-12T16:25:08.547Z",
   "problems": [
     {
       "frontendId": "2",
@@ -123,7 +123,7 @@
           "filename": "0160-intersection-of-two-linked-lists.cpp",
           "path": "solutions/Easy/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
           "sha": "6418dad6b4328931339c6e2dd0a3868693f9ce11",
-          "lastSyncedAt": "2026-11-12T16:23:15.115Z"
+          "lastSyncedAt": "2026-11-12T16:25:08.547Z"
         }
       ]
     },
