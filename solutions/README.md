@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 124 | 98 | 22 | 4 |
+| 125 | 99 | 22 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 6 days | 29 |
+| 2 days | 6 days | 30 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-21 | 1 |
 | 2026-09-28 | 4 |
 | 2026-09-29 | 9 |
 | 2026-09-30 | 6 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-06 | 2 |
 | 2026-11-09 | 1 |
 | 2026-11-11 | 3 |
+| 2026-11-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 65 | 52% |
-| Math | 48 | 39% |
-| Two Pointers | 25 | 20% |
-| Hash Table | 24 | 19% |
+| Math | 48 | 38% |
+| Two Pointers | 26 | 21% |
+| Hash Table | 25 | 20% |
 | Sorting | 21 | 17% |
 | String | 17 | 14% |
 | Binary Search | 13 | 10% |
 | Bit Manipulation | 10 | 8% |
+| Linked List | 10 | 8% |
 | Simulation | 10 | 8% |
-| Linked List | 9 | 7% |
 
 ## Topics
 
@@ -65,11 +65,11 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 24 |
+| [Hash Table](Topics/hash-table/) | 25 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 9 |
+| [Linked List](Topics/linked-list/) | 10 |
 | [Math](Topics/math/) | 48 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
@@ -90,6 +90,6 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 17 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 25 |
+| [Two Pointers](Topics/two-pointers/) | 26 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
