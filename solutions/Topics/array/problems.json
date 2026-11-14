@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-14T16:55:34.226Z",
+  "updatedAt": "2026-11-14T18:08:48.845Z",
   "problems": [
     {
       "frontendId": "1",
@@ -643,7 +643,7 @@
           "filename": "0506-relative-ranks.cpp",
           "path": "solutions/Easy/0506-relative-ranks/0506-relative-ranks.cpp",
           "sha": "b143c22ae391a4b124576b75735265724e027286",
-          "lastSyncedAt": "2026-11-14T16:55:34.226Z"
+          "lastSyncedAt": "2026-11-14T18:08:48.845Z"
         }
       ]
     },
