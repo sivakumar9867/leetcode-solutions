@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 126 | 100 | 22 | 4 |
+| 127 | 101 | 22 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 6 days | 31 |
+| 4 days | 6 days | 32 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-29 | 9 |
 | 2026-09-30 | 6 |
 | 2026-10-01 | 5 |
 | 2026-10-02 | 26 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-11-11 | 3 |
 | 2026-11-12 | 1 |
 | 2026-11-13 | 1 |
+| 2026-11-14 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 66 | 52% |
+| Array | 67 | 53% |
 | Math | 48 | 38% |
-| Two Pointers | 26 | 21% |
+| Two Pointers | 26 | 20% |
 | Hash Table | 25 | 20% |
-| Sorting | 21 | 17% |
+| Sorting | 22 | 17% |
 | String | 17 | 13% |
 | Binary Search | 13 | 10% |
 | Simulation | 11 | 9% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 66 |
+| [Array](Topics/array/) | 67 |
 | [Binary Search](Topics/binary-search/) | 13 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 10 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 25 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 10 |
@@ -85,7 +85,7 @@ Contains topicwise list of solved problems.
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 11 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 21 |
+| [Sorting](Topics/sorting/) | 22 |
 | [Stack](Topics/stack/) | 6 |
 | [String](Topics/string/) | 17 |
 | [String Matching](Topics/string-matching/) | 1 |
