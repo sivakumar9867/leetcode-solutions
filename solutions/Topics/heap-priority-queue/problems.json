@@ -5,8 +5,28 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-11T06:07:07.375Z",
+  "updatedAt": "2026-11-14T16:55:34.226Z",
   "problems": [
+    {
+      "frontendId": "506",
+      "title": "Relative Ranks",
+      "slug": "relative-ranks",
+      "problemName": "0506-relative-ranks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/relative-ranks/",
+      "folderPath": "solutions/Easy/0506-relative-ranks/",
+      "readmePath": "solutions/Easy/0506-relative-ranks/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0506-relative-ranks.cpp",
+          "path": "solutions/Easy/0506-relative-ranks/0506-relative-ranks.cpp",
+          "sha": "b143c22ae391a4b124576b75735265724e027286",
+          "lastSyncedAt": "2026-11-14T16:55:34.226Z"
+        }
+      ]
+    },
     {
       "frontendId": "1464",
       "title": "Maximum Product of Two Elements in an Array",
