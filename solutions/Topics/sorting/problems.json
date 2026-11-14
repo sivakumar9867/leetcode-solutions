@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-11T06:07:07.375Z",
+  "updatedAt": "2026-11-14T16:55:34.226Z",
   "problems": [
     {
       "frontendId": "15",
@@ -224,6 +224,26 @@
           "path": "solutions/0414-third-maximum-number/0414-third-maximum-number.cpp",
           "sha": "691a488e0c42f696a8802226c64beb88668a7bc7",
           "lastSyncedAt": "2026-11-11T06:05:13.335Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "506",
+      "title": "Relative Ranks",
+      "slug": "relative-ranks",
+      "problemName": "0506-relative-ranks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/relative-ranks/",
+      "folderPath": "solutions/Easy/0506-relative-ranks/",
+      "readmePath": "solutions/Easy/0506-relative-ranks/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0506-relative-ranks.cpp",
+          "path": "solutions/Easy/0506-relative-ranks/0506-relative-ranks.cpp",
+          "sha": "b143c22ae391a4b124576b75735265724e027286",
+          "lastSyncedAt": "2026-11-14T16:55:34.226Z"
         }
       ]
     },
