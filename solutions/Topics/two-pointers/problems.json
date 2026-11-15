@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-12T16:25:08.547Z",
+  "updatedAt": "2026-11-15T16:51:47.443Z",
   "problems": [
     {
       "frontendId": "15",
@@ -404,6 +404,26 @@
           "path": "solutions/0443-string-compression/0443-string-compression.cpp",
           "sha": "03419716c922e8a89d647d5fe40c6e49fb087898",
           "lastSyncedAt": "2026-11-11T06:01:40.682Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "541",
+      "title": "Reverse String II",
+      "slug": "reverse-string-ii",
+      "problemName": "0541-reverse-string-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string-ii/",
+      "folderPath": "solutions/Easy/0541-reverse-string-ii/",
+      "readmePath": "solutions/Easy/0541-reverse-string-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0541-reverse-string-ii.cpp",
+          "path": "solutions/Easy/0541-reverse-string-ii/0541-reverse-string-ii.cpp",
+          "sha": "8dd5b59ab80160ada1f1e8cb7b1be5c7e509149e",
+          "lastSyncedAt": "2026-11-15T16:51:47.443Z"
         }
       ]
     },
