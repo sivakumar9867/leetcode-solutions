@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T16:56:41.611Z",
+  "updatedAt": "2026-11-16T15:08:22.589Z",
   "problems": [
     {
       "frontendId": "3",
@@ -334,8 +334,8 @@
       "problemName": "0541-reverse-string-ii",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/reverse-string-ii/",
-      "folderPath": "solutions/Easy/0541-reverse-string-ii/",
-      "readmePath": "solutions/Easy/0541-reverse-string-ii/README.md",
+      "folderPath": "solutions/0541-reverse-string-ii/",
+      "readmePath": "solutions/0541-reverse-string-ii/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -343,7 +343,7 @@
           "filename": "0541-reverse-string-ii.cpp",
           "path": "solutions/Easy/0541-reverse-string-ii/0541-reverse-string-ii.cpp",
           "sha": "8dd5b59ab80160ada1f1e8cb7b1be5c7e509149e",
-          "lastSyncedAt": "2026-11-15T16:56:41.611Z"
+          "lastSyncedAt": "2026-11-16T15:08:22.589Z"
         }
       ]
     },
