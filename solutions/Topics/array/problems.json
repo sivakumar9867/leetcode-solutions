@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T15:18:49.166Z",
+  "updatedAt": "2026-11-16T15:19:07.801Z",
   "problems": [
     {
       "frontendId": "1",
@@ -74,8 +74,8 @@
       "problemName": "0014-longest-common-prefix",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
-      "folderPath": "solutions/Easy/0014-longest-common-prefix/",
-      "readmePath": "solutions/Easy/0014-longest-common-prefix/README.md",
+      "folderPath": "solutions/0014-longest-common-prefix/",
+      "readmePath": "solutions/0014-longest-common-prefix/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -83,7 +83,7 @@
           "filename": "0014-longest-common-prefix.cpp",
           "path": "solutions/0014-longest-common-prefix/0014-longest-common-prefix.cpp",
           "sha": "2b57c112fb31bedc864c0d03b8c39feec438b80c",
-          "lastSyncedAt": "2026-11-11T06:03:24.190Z"
+          "lastSyncedAt": "2026-11-16T15:19:07.801Z"
         }
       ]
     },
