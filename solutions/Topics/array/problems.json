@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T15:19:36.122Z",
+  "updatedAt": "2026-11-16T15:19:46.597Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1114,8 +1114,8 @@
       "problemName": "1480-running-sum-of-1d-array",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
-      "folderPath": "solutions/Easy/1480-running-sum-of-1d-array/",
-      "readmePath": "solutions/Easy/1480-running-sum-of-1d-array/README.md",
+      "folderPath": "solutions/1480-running-sum-of-1d-array/",
+      "readmePath": "solutions/1480-running-sum-of-1d-array/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -1123,7 +1123,7 @@
           "filename": "1480-running-sum-of-1d-array.cpp",
           "path": "solutions/1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp",
           "sha": "a221cc92f2c5eea1ccf439a088ff3a033b6cda28",
-          "lastSyncedAt": "2026-11-11T06:04:02.394Z"
+          "lastSyncedAt": "2026-11-16T15:19:46.597Z"
         }
       ]
     },
