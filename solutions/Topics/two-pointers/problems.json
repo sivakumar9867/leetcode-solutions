@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-16T15:18:26.935Z",
+  "updatedAt": "2026-11-16T15:19:52.327Z",
   "problems": [
     {
       "frontendId": "11",
@@ -454,8 +454,8 @@
       "problemName": "0633-sum-of-square-numbers",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/sum-of-square-numbers/",
-      "folderPath": "solutions/Medium/0633-sum-of-square-numbers/",
-      "readmePath": "solutions/Medium/0633-sum-of-square-numbers/README.md",
+      "folderPath": "solutions/0633-sum-of-square-numbers/",
+      "readmePath": "solutions/0633-sum-of-square-numbers/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -463,7 +463,7 @@
           "filename": "0633-sum-of-square-numbers.cpp",
           "path": "solutions/0633-sum-of-square-numbers/0633-sum-of-square-numbers.cpp",
           "sha": "61bb520fe9dc990f41db61f4136a510c741048f2",
-          "lastSyncedAt": "2026-11-11T06:04:07.924Z"
+          "lastSyncedAt": "2026-11-16T15:19:52.327Z"
         }
       ]
     },
