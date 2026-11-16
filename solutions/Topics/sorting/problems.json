@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-16T15:09:53.856Z",
+  "updatedAt": "2026-11-16T15:10:22.499Z",
   "problems": [
     {
       "frontendId": "15",
@@ -444,6 +444,26 @@
           "path": "solutions/2160-minimum-sum-of-four-digit-number-after-splitting-digits/2160-minimum-sum-of-four-digit-number-after-splitting-digits.cpp",
           "sha": "0a210db340b6f3fe2e4204606ae115e13a576c8c",
           "lastSyncedAt": "2026-11-11T05:59:06.187Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4099",
+      "title": "Minimum Operations to Sort With Locked Indices",
+      "slug": "minimum-operations-to-sort-with-locked-indices",
+      "problemName": "4099-minimum-operations-to-sort-with-locked-indices",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/",
+      "folderPath": "solutions/4099-minimum-operations-to-sort-with-locked-indices/",
+      "readmePath": "solutions/4099-minimum-operations-to-sort-with-locked-indices/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4099-minimum-operations-to-sort-with-locked-indices.cpp",
+          "path": "solutions/4099-minimum-operations-to-sort-with-locked-indices/4099-minimum-operations-to-sort-with-locked-indices.cpp",
+          "sha": "db7068464140540ed95a684221d1967baf7fdeaf",
+          "lastSyncedAt": "2026-11-16T15:10:22.499Z"
         }
       ]
     }
