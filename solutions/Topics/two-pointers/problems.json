@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T16:56:41.611Z",
+  "updatedAt": "2026-11-16T14:45:48.108Z",
   "problems": [
+    {
+      "frontendId": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "problemName": "0011-container-with-most-water",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+      "folderPath": "solutions/Medium/0011-container-with-most-water/",
+      "readmePath": "solutions/Medium/0011-container-with-most-water/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0011-container-with-most-water.cpp",
+          "path": "solutions/Medium/0011-container-with-most-water/0011-container-with-most-water.cpp",
+          "sha": "2c397f032628c8ca9392aee6e701c9359be3a8d5",
+          "lastSyncedAt": "2026-11-16T14:45:48.108Z"
+        }
+      ]
+    },
     {
       "frontendId": "15",
       "title": "3Sum",
