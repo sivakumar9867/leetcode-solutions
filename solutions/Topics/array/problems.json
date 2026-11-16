@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T15:18:06.868Z",
+  "updatedAt": "2026-11-16T15:18:15.365Z",
   "problems": [
     {
       "frontendId": "1",
@@ -94,8 +94,8 @@
       "problemName": "0015-3sum",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/3sum/",
-      "folderPath": "solutions/Medium/0015-3sum/",
-      "readmePath": "solutions/Medium/0015-3sum/README.md",
+      "folderPath": "solutions/0015-3sum/",
+      "readmePath": "solutions/0015-3sum/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -103,7 +103,7 @@
           "filename": "0015-3sum.cpp",
           "path": "solutions/0015-3sum/0015-3sum.cpp",
           "sha": "33b45fc0dcb9128292932b301f10953e3699e4f2",
-          "lastSyncedAt": "2026-11-11T06:02:34.817Z"
+          "lastSyncedAt": "2026-11-16T15:18:15.365Z"
         }
       ]
     },
