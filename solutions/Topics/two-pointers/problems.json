@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-16T15:21:49.034Z",
+  "updatedAt": "2026-11-16T15:22:15.911Z",
   "problems": [
     {
       "frontendId": "11",
@@ -134,8 +134,8 @@
       "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
-      "folderPath": "solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/",
-      "readmePath": "solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "folderPath": "solutions/0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "solutions/0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
       "solutions": [
         {
           "language": "C++",
@@ -143,7 +143,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "path": "solutions/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.cpp",
           "sha": "dfa783cc22c8bb5b98e3c4b8d0c6992f26e55be4",
-          "lastSyncedAt": "2026-11-11T06:06:02.764Z"
+          "lastSyncedAt": "2026-11-16T15:22:15.911Z"
         }
       ]
     },
