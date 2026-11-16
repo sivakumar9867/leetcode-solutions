@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 128 | 102 | 22 | 4 |
+| 129 | 102 | 23 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 6 days | 33 |
+| 6 days | 6 days | 34 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-01 | 5 |
 | 2026-10-02 | 26 |
 | 2026-10-03 | 4 |
 | 2026-10-05 | 2 |
@@ -29,15 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-11-13 | 1 |
 | 2026-11-14 | 1 |
 | 2026-11-15 | 1 |
+| 2026-11-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 67 | 52% |
-| Math | 48 | 38% |
-| Two Pointers | 27 | 21% |
-| Hash Table | 25 | 20% |
+| Array | 68 | 53% |
+| Math | 48 | 37% |
+| Two Pointers | 28 | 22% |
+| Hash Table | 25 | 19% |
 | Sorting | 22 | 17% |
 | String | 18 | 14% |
 | Binary Search | 13 | 10% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 67 |
+| [Array](Topics/array/) | 68 |
 | [Binary Search](Topics/binary-search/) | 13 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 10 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -64,7 +64,7 @@ Contains topicwise list of solved problems.
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Geometry](Topics/geometry/) | 1 |
-| [Greedy](Topics/greedy/) | 2 |
+| [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 25 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Interactive](Topics/interactive/) | 2 |
@@ -90,6 +90,6 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 18 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 27 |
+| [Two Pointers](Topics/two-pointers/) | 28 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
