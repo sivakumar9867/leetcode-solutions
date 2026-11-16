@@ -21,7 +21,7 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0011-container-with-most-water.cpp",
-          "path": "solutions/Medium/0011-container-with-most-water/0011-container-with-most-water.cpp",
+          "path": "solutions/0011-container-with-most-water/0011-container-with-most-water.cpp",
           "sha": "2c397f032628c8ca9392aee6e701c9359be3a8d5",
           "lastSyncedAt": "2026-11-16T15:25:58.874Z"
         }
@@ -241,7 +241,7 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0160-intersection-of-two-linked-lists.cpp",
-          "path": "solutions/Easy/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
+          "path": "solutions/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
           "sha": "6418dad6b4328931339c6e2dd0a3868693f9ce11",
           "lastSyncedAt": "2026-11-16T15:09:01.038Z"
         }
@@ -441,7 +441,7 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0541-reverse-string-ii.cpp",
-          "path": "solutions/Easy/0541-reverse-string-ii/0541-reverse-string-ii.cpp",
+          "path": "solutions/0541-reverse-string-ii/0541-reverse-string-ii.cpp",
           "sha": "8dd5b59ab80160ada1f1e8cb7b1be5c7e509149e",
           "lastSyncedAt": "2026-11-16T15:26:11.793Z"
         }
