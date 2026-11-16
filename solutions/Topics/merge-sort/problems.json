@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "merge-sort",
+    "name": "Merge Sort",
+    "tagId": "61051"
+  },
+  "updatedAt": "2026-11-16T15:10:22.499Z",
+  "problems": [
+    {
+      "frontendId": "4099",
+      "title": "Minimum Operations to Sort With Locked Indices",
+      "slug": "minimum-operations-to-sort-with-locked-indices",
+      "problemName": "4099-minimum-operations-to-sort-with-locked-indices",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/",
+      "folderPath": "solutions/4099-minimum-operations-to-sort-with-locked-indices/",
+      "readmePath": "solutions/4099-minimum-operations-to-sort-with-locked-indices/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4099-minimum-operations-to-sort-with-locked-indices.cpp",
+          "path": "solutions/4099-minimum-operations-to-sort-with-locked-indices/4099-minimum-operations-to-sort-with-locked-indices.cpp",
+          "sha": "db7068464140540ed95a684221d1967baf7fdeaf",
+          "lastSyncedAt": "2026-11-16T15:10:22.499Z"
+        }
+      ]
+    }
+  ]
+}
