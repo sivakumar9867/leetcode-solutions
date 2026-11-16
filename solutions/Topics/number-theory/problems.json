@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-11-11T06:04:55.641Z",
+  "updatedAt": "2026-11-16T15:10:46.369Z",
   "problems": [
     {
       "frontendId": "204",
@@ -84,6 +84,26 @@
           "path": "solutions/3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.cpp",
           "sha": "859dfa94b63552dc222bcc797119d0a1a7ce3ea9",
           "lastSyncedAt": "2026-11-11T05:56:59.726Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4098",
+      "title": "Minimize the Maximum Value of GCD-Connected Array",
+      "slug": "minimize-the-maximum-value-of-gcd-connected-array",
+      "problemName": "4098-minimize-the-maximum-value-of-gcd-connected-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array/",
+      "folderPath": "solutions/4098-minimize-the-maximum-value-of-gcd-connected-array/",
+      "readmePath": "solutions/4098-minimize-the-maximum-value-of-gcd-connected-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4098-minimize-the-maximum-value-of-gcd-connected-array.cpp",
+          "path": "solutions/4098-minimize-the-maximum-value-of-gcd-connected-array/4098-minimize-the-maximum-value-of-gcd-connected-array.cpp",
+          "sha": "aa9a838b92b43a033423795f29d0041d5136566b",
+          "lastSyncedAt": "2026-11-16T15:10:46.369Z"
         }
       ]
     }
