@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-16T15:09:53.856Z",
+  "updatedAt": "2026-11-16T15:10:04.904Z",
   "problems": [
     {
       "frontendId": "67",
@@ -204,6 +204,26 @@
           "path": "solutions/1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.cpp",
           "sha": "3088191aa5029a8489bde6e2c49c5490761065b2",
           "lastSyncedAt": "2026-11-11T05:59:33.671Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4100",
+      "title": "Minimum Cost Path With Even XOR Parity",
+      "slug": "minimum-cost-path-with-even-xor-parity",
+      "problemName": "4100-minimum-cost-path-with-even-xor-parity",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-path-with-even-xor-parity/",
+      "folderPath": "solutions/4100-minimum-cost-path-with-even-xor-parity/",
+      "readmePath": "solutions/4100-minimum-cost-path-with-even-xor-parity/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4100-minimum-cost-path-with-even-xor-parity.cpp",
+          "path": "solutions/4100-minimum-cost-path-with-even-xor-parity/4100-minimum-cost-path-with-even-xor-parity.cpp",
+          "sha": "dc17bf6e7ff838dd9bf94a4a9f2b131c3ee274e8",
+          "lastSyncedAt": "2026-11-16T15:10:04.904Z"
         }
       ]
     }
