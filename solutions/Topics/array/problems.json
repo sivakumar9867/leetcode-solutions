@@ -61,7 +61,7 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0011-container-with-most-water.cpp",
-          "path": "solutions/Medium/0011-container-with-most-water/0011-container-with-most-water.cpp",
+          "path": "solutions/0011-container-with-most-water/0011-container-with-most-water.cpp",
           "sha": "2c397f032628c8ca9392aee6e701c9359be3a8d5",
           "lastSyncedAt": "2026-11-16T15:25:58.874Z"
         }
@@ -661,7 +661,7 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "0506-relative-ranks.cpp",
-          "path": "solutions/Easy/0506-relative-ranks/0506-relative-ranks.cpp",
+          "path": "solutions/0506-relative-ranks/0506-relative-ranks.cpp",
           "sha": "b143c22ae391a4b124576b75735265724e027286",
           "lastSyncedAt": "2026-11-16T15:26:20.602Z"
         }
@@ -1201,7 +1201,7 @@
           "language": "C++",
           "extension": ".cpp",
           "filename": "1920-build-array-from-permutation.cpp",
-          "path": "solutions/Easy/1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
+          "path": "solutions/1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
           "sha": "cb5cd1d9c13896ad041ba656b95bfa1bd3c59f9f",
           "lastSyncedAt": "2026-11-16T15:08:48.834Z"
         }
