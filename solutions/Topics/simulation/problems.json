@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-17T15:55:32.828Z",
+  "updatedAt": "2026-11-17T15:55:50.726Z",
   "problems": [
     {
       "frontendId": "67",
@@ -183,7 +183,7 @@
           "filename": "1929-concatenation-of-array.cpp",
           "path": "solutions/1929-concatenation-of-array/1929-concatenation-of-array.cpp",
           "sha": "350793cb0cd9bf5da9cf3fe3da1657c5c9b538a2",
-          "lastSyncedAt": "2026-11-17T15:34:28.066Z"
+          "lastSyncedAt": "2026-11-17T15:55:50.726Z"
         }
       ]
     },
