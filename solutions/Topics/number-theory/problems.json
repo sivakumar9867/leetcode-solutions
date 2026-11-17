@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "number-theory",
+    "name": "Number Theory",
+    "tagId": "61067"
+  },
+  "updatedAt": "2026-11-17T15:31:38.293Z",
+  "problems": [
+    {
+      "frontendId": "4098",
+      "title": "Minimize the Maximum Value of GCD-Connected Array",
+      "slug": "minimize-the-maximum-value-of-gcd-connected-array",
+      "problemName": "4098-minimize-the-maximum-value-of-gcd-connected-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-the-maximum-value-of-gcd-connected-array/",
+      "folderPath": "solutions/4098-minimize-the-maximum-value-of-gcd-connected-array/",
+      "readmePath": "solutions/4098-minimize-the-maximum-value-of-gcd-connected-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4098-minimize-the-maximum-value-of-gcd-connected-array.cpp",
+          "path": "solutions/4098-minimize-the-maximum-value-of-gcd-connected-array/4098-minimize-the-maximum-value-of-gcd-connected-array.cpp",
+          "sha": "aa9a838b92b43a033423795f29d0041d5136566b",
+          "lastSyncedAt": "2026-11-17T15:31:38.293Z"
+        }
+      ]
+    }
+  ]
+}
