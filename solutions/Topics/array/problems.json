@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T15:29:13.657Z",
+  "updatedAt": "2026-11-17T15:29:34.936Z",
   "problems": [
     {
       "frontendId": "4",
@@ -84,6 +84,26 @@
           "path": "solutions/1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
           "sha": "cb5cd1d9c13896ad041ba656b95bfa1bd3c59f9f",
           "lastSyncedAt": "2026-11-17T15:29:13.657Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1991",
+      "title": "Find the Middle Index in Array",
+      "slug": "find-the-middle-index-in-array",
+      "problemName": "1991-find-the-middle-index-in-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-middle-index-in-array/",
+      "folderPath": "solutions/1991-find-the-middle-index-in-array/",
+      "readmePath": "solutions/1991-find-the-middle-index-in-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1991-find-the-middle-index-in-array.cpp",
+          "path": "solutions/1991-find-the-middle-index-in-array/1991-find-the-middle-index-in-array.cpp",
+          "sha": "9d1f46d57c233eefdf5f167134f993b7291d3e2c",
+          "lastSyncedAt": "2026-11-17T15:29:34.936Z"
         }
       ]
     }
