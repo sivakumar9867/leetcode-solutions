@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 129 | 102 | 23 | 4 |
+| 130 | 103 | 23 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 6 days | 34 |
+| 7 days | 7 days | 35 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-02 | 26 |
 | 2026-10-03 | 4 |
 | 2026-10-05 | 2 |
 | 2026-10-09 | 8 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-11-14 | 1 |
 | 2026-11-15 | 1 |
 | 2026-11-16 | 1 |
+| 2026-11-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 70 | 54% |
+| Array | 71 | 55% |
 | Math | 49 | 38% |
 | Two Pointers | 28 | 22% |
-| Hash Table | 25 | 19% |
+| Hash Table | 26 | 20% |
 | Sorting | 23 | 18% |
 | String | 18 | 14% |
 | Binary Search | 13 | 10% |
-| Bit Manipulation | 11 | 9% |
-| Simulation | 11 | 9% |
+| Bit Manipulation | 11 | 8% |
+| Simulation | 11 | 8% |
 | Linked List | 10 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 70 |
+| [Array](Topics/array/) | 71 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 13 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 11 |
@@ -67,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 5 |
-| [Hash Table](Topics/hash-table/) | 25 |
+| [Hash Table](Topics/hash-table/) | 26 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
