@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-17T15:47:33.718Z",
+  "updatedAt": "2026-11-17T15:52:05.854Z",
   "problems": [
     {
       "frontendId": "506",
@@ -23,7 +23,7 @@
           "filename": "0506-relative-ranks.cpp",
           "path": "solutions/0506-relative-ranks/0506-relative-ranks.cpp",
           "sha": "b143c22ae391a4b124576b75735265724e027286",
-          "lastSyncedAt": "2026-11-17T15:29:01.133Z"
+          "lastSyncedAt": "2026-11-17T15:52:05.854Z"
         }
       ]
     },
