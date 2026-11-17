@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-17T16:03:55.818Z",
+  "updatedAt": "2026-11-17T16:04:08.082Z",
   "problems": [
     {
       "frontendId": "11",
@@ -123,7 +123,7 @@
           "filename": "0027-remove-element.cpp",
           "path": "solutions/0027-remove-element/0027-remove-element.cpp",
           "sha": "b519f9124ee483389682cb724abd0a91d5916f61",
-          "lastSyncedAt": "2026-11-17T15:47:03.624Z"
+          "lastSyncedAt": "2026-11-17T16:04:08.082Z"
         }
       ]
     },
