@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T15:44:30.303Z",
+  "updatedAt": "2026-11-17T15:44:47.334Z",
   "problems": [
     {
       "frontendId": "1",
@@ -324,6 +324,26 @@
           "path": "solutions/0268-missing-number/0268-missing-number.cpp",
           "sha": "08d9e5e62f97acda776e2fa3d339e43bccbe4f7f",
           "lastSyncedAt": "2026-11-17T15:40:58.063Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "solutions/0283-move-zeroes/",
+      "readmePath": "solutions/0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0283-move-zeroes.cpp",
+          "path": "solutions/0283-move-zeroes/0283-move-zeroes.cpp",
+          "sha": "58aae7340e1f7b9af9fcb610e20b470bf4567c83",
+          "lastSyncedAt": "2026-11-17T15:44:47.334Z"
         }
       ]
     },
