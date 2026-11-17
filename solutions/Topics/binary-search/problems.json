@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-17T15:30:11.615Z",
+  "updatedAt": "2026-11-17T15:30:21.451Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "solutions/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "9b7f134c7af8b39ec2d4567a98718f1c6ac7e7ea",
           "lastSyncedAt": "2026-11-17T15:28:22.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "278",
+      "title": "First Bad Version",
+      "slug": "first-bad-version",
+      "problemName": "0278-first-bad-version",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-bad-version/",
+      "folderPath": "solutions/0278-first-bad-version/",
+      "readmePath": "solutions/0278-first-bad-version/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0278-first-bad-version.cpp",
+          "path": "solutions/0278-first-bad-version/0278-first-bad-version.cpp",
+          "sha": "2c23c78b68d247d90f3bcc4476901e0c77f75058",
+          "lastSyncedAt": "2026-11-17T15:30:21.451Z"
         }
       ]
     },
