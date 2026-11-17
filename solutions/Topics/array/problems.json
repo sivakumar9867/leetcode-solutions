@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T16:03:00.376Z",
+  "updatedAt": "2026-11-17T16:03:06.508Z",
   "problems": [
     {
       "frontendId": "1",
@@ -783,7 +783,7 @@
           "filename": "0747-largest-number-at-least-twice-of-others.cpp",
           "path": "solutions/0747-largest-number-at-least-twice-of-others/0747-largest-number-at-least-twice-of-others.cpp",
           "sha": "797d649f4ad4f47ae342ac8da01015e9f60c45da",
-          "lastSyncedAt": "2026-11-17T15:45:22.094Z"
+          "lastSyncedAt": "2026-11-17T16:03:06.508Z"
         }
       ]
     },
