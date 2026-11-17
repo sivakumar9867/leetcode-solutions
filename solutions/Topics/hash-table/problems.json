@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table",
+    "tagId": "6"
+  },
+  "updatedAt": "2026-11-17T15:29:22.302Z",
+  "problems": [
+    {
+      "frontendId": "160",
+      "title": "Intersection of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "problemName": "0160-intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "folderPath": "solutions/0160-intersection-of-two-linked-lists/",
+      "readmePath": "solutions/0160-intersection-of-two-linked-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0160-intersection-of-two-linked-lists.cpp",
+          "path": "solutions/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
+          "sha": "6418dad6b4328931339c6e2dd0a3868693f9ce11",
+          "lastSyncedAt": "2026-11-17T15:29:22.302Z"
+        }
+      ]
+    }
+  ]
+}
