@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-17T15:31:15.266Z",
+  "updatedAt": "2026-11-17T15:41:14.643Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "solutions/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.cpp",
           "sha": "9b7f134c7af8b39ec2d4567a98718f1c6ac7e7ea",
           "lastSyncedAt": "2026-11-17T15:28:22.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "solutions/0169-majority-element/",
+      "readmePath": "solutions/0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0169-majority-element.cpp",
+          "path": "solutions/0169-majority-element/0169-majority-element.cpp",
+          "sha": "b1e6383f6b9bbce487a21db798a4ec63bca4da22",
+          "lastSyncedAt": "2026-11-17T15:41:14.643Z"
         }
       ]
     },
