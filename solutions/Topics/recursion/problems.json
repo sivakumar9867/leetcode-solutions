@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-17T15:32:37.652Z",
+  "updatedAt": "2026-11-17T15:37:22.327Z",
   "problems": [
+    {
+      "frontendId": "224",
+      "title": "Basic Calculator",
+      "slug": "basic-calculator",
+      "problemName": "0224-basic-calculator",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator/",
+      "folderPath": "solutions/0224-basic-calculator/",
+      "readmePath": "solutions/0224-basic-calculator/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0224-basic-calculator.cpp",
+          "path": "solutions/0224-basic-calculator/0224-basic-calculator.cpp",
+          "sha": "081e08b9103bf0fb645d70f20161f187e4e6cd1d",
+          "lastSyncedAt": "2026-11-17T15:37:22.327Z"
+        }
+      ]
+    },
     {
       "frontendId": "509",
       "title": "Fibonacci Number",
