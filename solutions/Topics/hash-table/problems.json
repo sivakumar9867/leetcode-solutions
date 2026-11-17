@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-17T16:04:42.962Z",
+  "updatedAt": "2026-11-17T16:10:36.822Z",
   "problems": [
     {
       "frontendId": "1",
@@ -484,6 +484,26 @@
           "path": "solutions/2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.cpp",
           "sha": "192a0bca7c3042702cf10e220ba9602c4e5f218a",
           "lastSyncedAt": "2026-11-17T16:01:40.265Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3668",
+      "title": "Restore Finishing Order",
+      "slug": "restore-finishing-order",
+      "problemName": "3668-restore-finishing-order",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/restore-finishing-order/",
+      "folderPath": "solutions/3668-restore-finishing-order/",
+      "readmePath": "solutions/3668-restore-finishing-order/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3668-restore-finishing-order.cpp",
+          "path": "solutions/3668-restore-finishing-order/3668-restore-finishing-order.cpp",
+          "sha": "c564e6892e2b21ef20c637a2e6700803f58ae02b",
+          "lastSyncedAt": "2026-11-17T16:10:36.822Z"
         }
       ]
     },
