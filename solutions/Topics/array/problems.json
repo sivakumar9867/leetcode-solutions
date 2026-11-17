@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T15:55:21.075Z",
+  "updatedAt": "2026-11-17T15:55:26.480Z",
   "problems": [
     {
       "frontendId": "1",
@@ -323,7 +323,7 @@
           "filename": "0150-evaluate-reverse-polish-notation.cpp",
           "path": "solutions/0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.cpp",
           "sha": "42b38764969d9d08a31ce6dc250246a666bfe1f0",
-          "lastSyncedAt": "2026-11-17T15:33:56.980Z"
+          "lastSyncedAt": "2026-11-17T15:55:26.480Z"
         }
       ]
     },
