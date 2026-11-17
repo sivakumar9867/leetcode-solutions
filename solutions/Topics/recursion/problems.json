@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-17T15:58:37.108Z",
+  "updatedAt": "2026-11-17T15:58:52.208Z",
   "problems": [
     {
       "frontendId": "2",
@@ -83,7 +83,7 @@
           "filename": "0206-reverse-linked-list.cpp",
           "path": "solutions/0206-reverse-linked-list/0206-reverse-linked-list.cpp",
           "sha": "e2155cefeea19ecf4c2670588eec0fde73fe59e4",
-          "lastSyncedAt": "2026-11-17T15:39:14.971Z"
+          "lastSyncedAt": "2026-11-17T15:58:52.208Z"
         }
       ]
     },
