@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-17T15:35:40.584Z",
+  "updatedAt": "2026-11-17T15:38:00.556Z",
   "problems": [
     {
       "frontendId": "11",
@@ -64,6 +64,26 @@
           "path": "solutions/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
           "sha": "6418dad6b4328931339c6e2dd0a3868693f9ce11",
           "lastSyncedAt": "2026-11-17T15:29:22.302Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "350",
+      "title": "Intersection of Two Arrays II",
+      "slug": "intersection-of-two-arrays-ii",
+      "problemName": "0350-intersection-of-two-arrays-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+      "folderPath": "solutions/0350-intersection-of-two-arrays-ii/",
+      "readmePath": "solutions/0350-intersection-of-two-arrays-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0350-intersection-of-two-arrays-ii.cpp",
+          "path": "solutions/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.cpp",
+          "sha": "ad3bd595ed13ae550077fb1b26e7be483e92d33f",
+          "lastSyncedAt": "2026-11-17T15:38:00.556Z"
         }
       ]
     },
