@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-17T15:53:28.417Z",
+  "updatedAt": "2026-11-17T15:53:45.201Z",
   "problems": [
     {
       "frontendId": "11",
@@ -83,7 +83,7 @@
           "filename": "4098-minimize-the-maximum-value-of-gcd-connected-array.cpp",
           "path": "solutions/4098-minimize-the-maximum-value-of-gcd-connected-array/4098-minimize-the-maximum-value-of-gcd-connected-array.cpp",
           "sha": "aa9a838b92b43a033423795f29d0041d5136566b",
-          "lastSyncedAt": "2026-11-17T15:31:38.293Z"
+          "lastSyncedAt": "2026-11-17T15:53:45.201Z"
         }
       ]
     },
