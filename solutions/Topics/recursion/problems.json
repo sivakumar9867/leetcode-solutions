@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-17T16:00:49.844Z",
+  "updatedAt": "2026-11-17T16:05:10.863Z",
   "problems": [
     {
       "frontendId": "2",
@@ -163,7 +163,7 @@
           "filename": "0342-power-of-four.cpp",
           "path": "solutions/0342-power-of-four/0342-power-of-four.cpp",
           "sha": "310cd9ced877119144b8d842ac5371fdfcfa3a4d",
-          "lastSyncedAt": "2026-11-17T15:48:49.622Z"
+          "lastSyncedAt": "2026-11-17T16:05:10.863Z"
         }
       ]
     },
