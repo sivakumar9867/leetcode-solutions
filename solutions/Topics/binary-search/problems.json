@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-17T16:00:06.181Z",
+  "updatedAt": "2026-11-17T16:01:13.681Z",
   "problems": [
     {
       "frontendId": "4",
@@ -243,7 +243,7 @@
           "filename": "0633-sum-of-square-numbers.cpp",
           "path": "solutions/0633-sum-of-square-numbers/0633-sum-of-square-numbers.cpp",
           "sha": "61bb520fe9dc990f41db61f4136a510c741048f2",
-          "lastSyncedAt": "2026-11-17T15:42:38.818Z"
+          "lastSyncedAt": "2026-11-17T16:01:13.681Z"
         }
       ]
     },
