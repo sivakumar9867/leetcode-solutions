@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-17T15:51:52.446Z",
+  "updatedAt": "2026-11-17T15:53:28.417Z",
   "problems": [
     {
       "frontendId": "11",
@@ -103,7 +103,7 @@
           "filename": "4099-minimum-operations-to-sort-with-locked-indices.cpp",
           "path": "solutions/4099-minimum-operations-to-sort-with-locked-indices/4099-minimum-operations-to-sort-with-locked-indices.cpp",
           "sha": "db7068464140540ed95a684221d1967baf7fdeaf",
-          "lastSyncedAt": "2026-11-17T15:31:15.266Z"
+          "lastSyncedAt": "2026-11-17T15:53:28.417Z"
         }
       ]
     }
