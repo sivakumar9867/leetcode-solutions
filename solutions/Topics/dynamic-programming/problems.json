@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-17T15:50:03.949Z",
+  "updatedAt": "2026-11-17T15:53:16.143Z",
   "problems": [
     {
       "frontendId": "53",
@@ -83,7 +83,7 @@
           "filename": "4100-minimum-cost-path-with-even-xor-parity.cpp",
           "path": "solutions/4100-minimum-cost-path-with-even-xor-parity/4100-minimum-cost-path-with-even-xor-parity.cpp",
           "sha": "dc17bf6e7ff838dd9bf94a4a9f2b131c3ee274e8",
-          "lastSyncedAt": "2026-11-17T15:30:56.345Z"
+          "lastSyncedAt": "2026-11-17T15:53:16.143Z"
         }
       ]
     }
