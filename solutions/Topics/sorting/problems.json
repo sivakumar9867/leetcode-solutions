@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-17T16:00:19.026Z",
+  "updatedAt": "2026-11-17T16:01:47.501Z",
   "problems": [
     {
       "frontendId": "15",
@@ -163,7 +163,7 @@
           "filename": "0349-intersection-of-two-arrays.cpp",
           "path": "solutions/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "dd8499807efc1eab11e42bda8db1d2762a58b315",
-          "lastSyncedAt": "2026-11-17T15:43:26.352Z"
+          "lastSyncedAt": "2026-11-17T16:01:47.501Z"
         }
       ]
     },
