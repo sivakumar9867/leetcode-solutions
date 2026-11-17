@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-17T15:48:20.594Z",
+  "updatedAt": "2026-11-17T15:50:03.949Z",
   "problems": [
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "solutions/0053-maximum-subarray/",
+      "readmePath": "solutions/0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0053-maximum-subarray.cpp",
+          "path": "solutions/0053-maximum-subarray/0053-maximum-subarray.cpp",
+          "sha": "d9dfb0bda09f7f1ba97e362bc307ba839698014f",
+          "lastSyncedAt": "2026-11-17T15:50:03.949Z"
+        }
+      ]
+    },
     {
       "frontendId": "121",
       "title": "Best Time to Buy and Sell Stock",
