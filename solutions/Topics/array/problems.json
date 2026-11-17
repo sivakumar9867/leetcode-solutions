@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T15:52:05.854Z",
+  "updatedAt": "2026-11-17T15:52:13.674Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1203,7 +1203,7 @@
           "filename": "1920-build-array-from-permutation.cpp",
           "path": "solutions/1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
           "sha": "cb5cd1d9c13896ad041ba656b95bfa1bd3c59f9f",
-          "lastSyncedAt": "2026-11-17T15:29:13.657Z"
+          "lastSyncedAt": "2026-11-17T15:52:13.674Z"
         }
       ]
     },
