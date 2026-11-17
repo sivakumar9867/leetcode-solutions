@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T15:40:29.577Z",
+  "updatedAt": "2026-11-17T15:40:39.815Z",
   "problems": [
     {
       "frontendId": "4",
@@ -124,6 +124,26 @@
           "path": "solutions/0228-summary-ranges/0228-summary-ranges.cpp",
           "sha": "8bf49365380df1c93e9698387ddb3d69677b8714",
           "lastSyncedAt": "2026-11-17T15:38:15.597Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "problemName": "0238-product-of-array-except-self",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-array-except-self/",
+      "folderPath": "solutions/0238-product-of-array-except-self/",
+      "readmePath": "solutions/0238-product-of-array-except-self/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0238-product-of-array-except-self.cpp",
+          "path": "solutions/0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
+          "sha": "9ffbb955b8422bd36cb34a8ce779ae81e8ea0e3d",
+          "lastSyncedAt": "2026-11-17T15:40:39.815Z"
         }
       ]
     },
