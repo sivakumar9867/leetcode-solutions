@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T15:33:35.526Z",
+  "updatedAt": "2026-11-17T15:33:49.375Z",
   "problems": [
     {
       "frontendId": "4",
@@ -104,6 +104,26 @@
           "path": "solutions/0506-relative-ranks/0506-relative-ranks.cpp",
           "sha": "b143c22ae391a4b124576b75735265724e027286",
           "lastSyncedAt": "2026-11-17T15:29:01.133Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "636",
+      "title": "Exclusive Time of Functions",
+      "slug": "exclusive-time-of-functions",
+      "problemName": "0636-exclusive-time-of-functions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/exclusive-time-of-functions/",
+      "folderPath": "solutions/0636-exclusive-time-of-functions/",
+      "readmePath": "solutions/0636-exclusive-time-of-functions/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0636-exclusive-time-of-functions.cpp",
+          "path": "solutions/0636-exclusive-time-of-functions/0636-exclusive-time-of-functions.cpp",
+          "sha": "8f9213f80aa1fc44a06e9525890638906b1a470b",
+          "lastSyncedAt": "2026-11-17T15:33:49.375Z"
         }
       ]
     },
