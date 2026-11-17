@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-17T15:58:56.380Z",
+  "updatedAt": "2026-11-17T15:59:01.467Z",
   "problems": [
     {
       "frontendId": "3",
@@ -243,7 +243,7 @@
           "filename": "0387-first-unique-character-in-a-string.cpp",
           "path": "solutions/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.cpp",
           "sha": "f06a564fa89b814837e0ca3c1282cb969e997246",
-          "lastSyncedAt": "2026-11-17T15:39:28.637Z"
+          "lastSyncedAt": "2026-11-17T15:59:01.467Z"
         }
       ]
     },
