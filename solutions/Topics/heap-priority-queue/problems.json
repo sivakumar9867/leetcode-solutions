@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-17T15:29:01.133Z",
+  "updatedAt": "2026-11-17T15:31:52.818Z",
   "problems": [
     {
       "frontendId": "506",
@@ -24,6 +24,26 @@
           "path": "solutions/0506-relative-ranks/0506-relative-ranks.cpp",
           "sha": "b143c22ae391a4b124576b75735265724e027286",
           "lastSyncedAt": "2026-11-17T15:29:01.133Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3264",
+      "title": "Final Array State After K Multiplication Operations I",
+      "slug": "final-array-state-after-k-multiplication-operations-i",
+      "problemName": "3264-final-array-state-after-k-multiplication-operations-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/",
+      "folderPath": "solutions/3264-final-array-state-after-k-multiplication-operations-i/",
+      "readmePath": "solutions/3264-final-array-state-after-k-multiplication-operations-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3264-final-array-state-after-k-multiplication-operations-i.cpp",
+          "path": "solutions/3264-final-array-state-after-k-multiplication-operations-i/3264-final-array-state-after-k-multiplication-operations-i.cpp",
+          "sha": "6e2ab3b200f2d072d3f61ab8d6ea3d3b7bff39bc",
+          "lastSyncedAt": "2026-11-17T15:31:52.818Z"
         }
       ]
     }
