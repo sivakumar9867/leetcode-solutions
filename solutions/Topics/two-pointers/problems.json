@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-17T15:39:08.117Z",
+  "updatedAt": "2026-11-17T15:39:21.453Z",
   "problems": [
     {
       "frontendId": "11",
@@ -144,6 +144,26 @@
           "path": "solutions/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.cpp",
           "sha": "ad3bd595ed13ae550077fb1b26e7be483e92d33f",
           "lastSyncedAt": "2026-11-17T15:38:00.556Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "443",
+      "title": "String Compression",
+      "slug": "string-compression",
+      "problemName": "0443-string-compression",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+      "folderPath": "solutions/0443-string-compression/",
+      "readmePath": "solutions/0443-string-compression/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0443-string-compression.cpp",
+          "path": "solutions/0443-string-compression/0443-string-compression.cpp",
+          "sha": "03419716c922e8a89d647d5fe40c6e49fb087898",
+          "lastSyncedAt": "2026-11-17T15:39:21.453Z"
         }
       ]
     },
