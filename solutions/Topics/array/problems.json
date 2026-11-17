@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T15:47:03.624Z",
+  "updatedAt": "2026-11-17T15:47:12.747Z",
   "problems": [
     {
       "frontendId": "1",
@@ -744,6 +744,26 @@
           "path": "solutions/1051-height-checker/1051-height-checker.cpp",
           "sha": "e5ec11150af2dd39cb7adda7bc724cbce40069c5",
           "lastSyncedAt": "2026-11-17T15:46:09.540Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1089",
+      "title": "Duplicate Zeros",
+      "slug": "duplicate-zeros",
+      "problemName": "1089-duplicate-zeros",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/duplicate-zeros/",
+      "folderPath": "solutions/1089-duplicate-zeros/",
+      "readmePath": "solutions/1089-duplicate-zeros/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1089-duplicate-zeros.cpp",
+          "path": "solutions/1089-duplicate-zeros/1089-duplicate-zeros.cpp",
+          "sha": "c11731369c323858326312bd9cee8728f57bc6c1",
+          "lastSyncedAt": "2026-11-17T15:47:12.747Z"
         }
       ]
     },
