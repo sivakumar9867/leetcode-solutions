@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-17T15:30:42.001Z",
+  "updatedAt": "2026-11-17T15:31:15.266Z",
   "problems": [
     {
       "frontendId": "389",
@@ -44,6 +44,26 @@
           "path": "solutions/0506-relative-ranks/0506-relative-ranks.cpp",
           "sha": "b143c22ae391a4b124576b75735265724e027286",
           "lastSyncedAt": "2026-11-17T15:29:01.133Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4099",
+      "title": "Minimum Operations to Sort With Locked Indices",
+      "slug": "minimum-operations-to-sort-with-locked-indices",
+      "problemName": "4099-minimum-operations-to-sort-with-locked-indices",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-sort-with-locked-indices/",
+      "folderPath": "solutions/4099-minimum-operations-to-sort-with-locked-indices/",
+      "readmePath": "solutions/4099-minimum-operations-to-sort-with-locked-indices/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4099-minimum-operations-to-sort-with-locked-indices.cpp",
+          "path": "solutions/4099-minimum-operations-to-sort-with-locked-indices/4099-minimum-operations-to-sort-with-locked-indices.cpp",
+          "sha": "db7068464140540ed95a684221d1967baf7fdeaf",
+          "lastSyncedAt": "2026-11-17T15:31:15.266Z"
         }
       ]
     }
