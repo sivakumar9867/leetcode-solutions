@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T16:05:41.905Z",
+  "updatedAt": "2026-11-17T16:05:46.463Z",
   "problems": [
     {
       "frontendId": "1",
@@ -263,7 +263,7 @@
           "filename": "0088-merge-sorted-array.cpp",
           "path": "solutions/0088-merge-sorted-array/0088-merge-sorted-array.cpp",
           "sha": "73d7aeb28362cb5d748ccbf7c34ad0de82ca4eae",
-          "lastSyncedAt": "2026-11-17T15:49:42.537Z"
+          "lastSyncedAt": "2026-11-17T16:05:46.463Z"
         }
       ]
     },
