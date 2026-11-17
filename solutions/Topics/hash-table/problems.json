@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-17T15:40:58.063Z",
+  "updatedAt": "2026-11-17T15:41:14.643Z",
   "problems": [
     {
       "frontendId": "141",
@@ -64,6 +64,26 @@
           "path": "solutions/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
           "sha": "6418dad6b4328931339c6e2dd0a3868693f9ce11",
           "lastSyncedAt": "2026-11-17T15:29:22.302Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "solutions/0169-majority-element/",
+      "readmePath": "solutions/0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0169-majority-element.cpp",
+          "path": "solutions/0169-majority-element/0169-majority-element.cpp",
+          "sha": "b1e6383f6b9bbce487a21db798a4ec63bca4da22",
+          "lastSyncedAt": "2026-11-17T15:41:14.643Z"
         }
       ]
     },
