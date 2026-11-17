@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-17T15:31:52.818Z",
+  "updatedAt": "2026-11-17T15:33:08.342Z",
   "problems": [
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "solutions/0258-add-digits/",
+      "readmePath": "solutions/0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0258-add-digits.cpp",
+          "path": "solutions/0258-add-digits/0258-add-digits.cpp",
+          "sha": "972f496ef502ecf3810d8747fd1d500a3e8041bf",
+          "lastSyncedAt": "2026-11-17T15:33:08.342Z"
+        }
+      ]
+    },
     {
       "frontendId": "1920",
       "title": "Build Array from Permutation",
