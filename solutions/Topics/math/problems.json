@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-17T15:49:25.351Z",
+  "updatedAt": "2026-11-17T15:52:39.025Z",
   "problems": [
     {
       "frontendId": "2",
@@ -843,7 +843,7 @@
           "filename": "2769-find-the-maximum-achievable-number.cpp",
           "path": "solutions/2769-find-the-maximum-achievable-number/2769-find-the-maximum-achievable-number.cpp",
           "sha": "46e95fa9536a668326ceb9ae22300b7e6625397f",
-          "lastSyncedAt": "2026-11-17T15:29:52.597Z"
+          "lastSyncedAt": "2026-11-17T15:52:39.025Z"
         }
       ]
     },
