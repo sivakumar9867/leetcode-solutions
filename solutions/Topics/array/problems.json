@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T16:05:59.459Z",
+  "updatedAt": "2026-11-17T16:10:36.822Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1344,6 +1344,26 @@
           "path": "solutions/3512-minimum-operations-to-make-array-sum-divisible-by-k/3512-minimum-operations-to-make-array-sum-divisible-by-k.cpp",
           "sha": "8a511c10d9d47bc2b2d3c1a94e2e8ae05a21596c",
           "lastSyncedAt": "2026-11-17T15:57:08.937Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3668",
+      "title": "Restore Finishing Order",
+      "slug": "restore-finishing-order",
+      "problemName": "3668-restore-finishing-order",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/restore-finishing-order/",
+      "folderPath": "solutions/3668-restore-finishing-order/",
+      "readmePath": "solutions/3668-restore-finishing-order/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3668-restore-finishing-order.cpp",
+          "path": "solutions/3668-restore-finishing-order/3668-restore-finishing-order.cpp",
+          "sha": "c564e6892e2b21ef20c637a2e6700803f58ae02b",
+          "lastSyncedAt": "2026-11-17T16:10:36.822Z"
         }
       ]
     },
