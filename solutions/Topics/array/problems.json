@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T16:01:40.265Z",
+  "updatedAt": "2026-11-17T16:01:47.501Z",
   "problems": [
     {
       "frontendId": "1",
@@ -563,7 +563,7 @@
           "filename": "0349-intersection-of-two-arrays.cpp",
           "path": "solutions/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
           "sha": "dd8499807efc1eab11e42bda8db1d2762a58b315",
-          "lastSyncedAt": "2026-11-17T15:43:26.352Z"
+          "lastSyncedAt": "2026-11-17T16:01:47.501Z"
         }
       ]
     },
