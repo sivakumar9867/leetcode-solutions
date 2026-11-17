@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T15:30:29.790Z",
+  "updatedAt": "2026-11-17T15:30:56.345Z",
   "problems": [
     {
       "frontendId": "4",
@@ -164,6 +164,26 @@
           "path": "solutions/3701-compute-alternating-sum/3701-compute-alternating-sum.cpp",
           "sha": "9ba0bae22985d8bfb97fadd59e6008896b93fb4e",
           "lastSyncedAt": "2026-11-17T15:29:59.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4100",
+      "title": "Minimum Cost Path With Even XOR Parity",
+      "slug": "minimum-cost-path-with-even-xor-parity",
+      "problemName": "4100-minimum-cost-path-with-even-xor-parity",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-path-with-even-xor-parity/",
+      "folderPath": "solutions/4100-minimum-cost-path-with-even-xor-parity/",
+      "readmePath": "solutions/4100-minimum-cost-path-with-even-xor-parity/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "4100-minimum-cost-path-with-even-xor-parity.cpp",
+          "path": "solutions/4100-minimum-cost-path-with-even-xor-parity/4100-minimum-cost-path-with-even-xor-parity.cpp",
+          "sha": "dc17bf6e7ff838dd9bf94a4a9f2b131c3ee274e8",
+          "lastSyncedAt": "2026-11-17T15:30:56.345Z"
         }
       ]
     }
