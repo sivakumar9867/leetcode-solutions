@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-17T15:52:00.548Z",
+  "updatedAt": "2026-11-17T15:52:19.457Z",
   "problems": [
     {
       "frontendId": "11",
@@ -243,7 +243,7 @@
           "filename": "0160-intersection-of-two-linked-lists.cpp",
           "path": "solutions/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
           "sha": "6418dad6b4328931339c6e2dd0a3868693f9ce11",
-          "lastSyncedAt": "2026-11-17T15:29:22.302Z"
+          "lastSyncedAt": "2026-11-17T15:52:19.457Z"
         }
       ]
     },
