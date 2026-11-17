@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-17T15:53:54.587Z",
+  "updatedAt": "2026-11-17T16:04:24.536Z",
   "problems": [
     {
       "frontendId": "506",
@@ -43,7 +43,7 @@
           "filename": "1464-maximum-product-of-two-elements-in-an-array.cpp",
           "path": "solutions/1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.cpp",
           "sha": "89337dc2bb0c489519d1cfce23f115788f09e1dc",
-          "lastSyncedAt": "2026-11-17T15:47:33.718Z"
+          "lastSyncedAt": "2026-11-17T16:04:24.536Z"
         }
       ]
     },
