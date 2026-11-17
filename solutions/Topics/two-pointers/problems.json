@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-17T15:58:48.432Z",
+  "updatedAt": "2026-11-17T15:58:56.380Z",
   "problems": [
     {
       "frontendId": "11",
@@ -423,7 +423,7 @@
           "filename": "0443-string-compression.cpp",
           "path": "solutions/0443-string-compression/0443-string-compression.cpp",
           "sha": "03419716c922e8a89d647d5fe40c6e49fb087898",
-          "lastSyncedAt": "2026-11-17T15:39:21.453Z"
+          "lastSyncedAt": "2026-11-17T15:58:56.380Z"
         }
       ]
     },
