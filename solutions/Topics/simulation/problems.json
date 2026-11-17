@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-17T15:56:14.162Z",
+  "updatedAt": "2026-11-17T15:56:21.066Z",
   "problems": [
     {
       "frontendId": "67",
@@ -23,7 +23,7 @@
           "filename": "0067-add-binary.cpp",
           "path": "solutions/0067-add-binary/0067-add-binary.cpp",
           "sha": "17ba34cc40935190a25bce0bf110c1407c5d588d",
-          "lastSyncedAt": "2026-11-17T15:35:14.682Z"
+          "lastSyncedAt": "2026-11-17T15:56:21.066Z"
         }
       ]
     },
