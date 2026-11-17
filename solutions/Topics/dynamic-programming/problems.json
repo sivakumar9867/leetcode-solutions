@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-17T15:30:56.345Z",
+  "updatedAt": "2026-11-17T15:32:37.652Z",
   "problems": [
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "solutions/0509-fibonacci-number/",
+      "readmePath": "solutions/0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0509-fibonacci-number.cpp",
+          "path": "solutions/0509-fibonacci-number/0509-fibonacci-number.cpp",
+          "sha": "ca63b45369d24d5e4293807df0690f209db84718",
+          "lastSyncedAt": "2026-11-17T15:32:37.652Z"
+        }
+      ]
+    },
     {
       "frontendId": "4100",
       "title": "Minimum Cost Path With Even XOR Parity",
