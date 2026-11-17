@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-17T15:34:51.073Z",
+  "updatedAt": "2026-11-17T15:37:41.147Z",
   "problems": [
     {
       "frontendId": "160",
@@ -24,6 +24,26 @@
           "path": "solutions/0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
           "sha": "6418dad6b4328931339c6e2dd0a3868693f9ce11",
           "lastSyncedAt": "2026-11-17T15:29:22.302Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "problemName": "0290-word-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+      "folderPath": "solutions/0290-word-pattern/",
+      "readmePath": "solutions/0290-word-pattern/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0290-word-pattern.cpp",
+          "path": "solutions/0290-word-pattern/0290-word-pattern.cpp",
+          "sha": "8997e3e34adc45b6d12705da29ab50534d1f6151",
+          "lastSyncedAt": "2026-11-17T15:37:41.147Z"
         }
       ]
     },
