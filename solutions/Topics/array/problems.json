@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T15:52:42.092Z",
+  "updatedAt": "2026-11-17T15:52:56.961Z",
   "problems": [
     {
       "frontendId": "1",
@@ -923,7 +923,7 @@
           "filename": "1232-check-if-it-is-a-straight-line.cpp",
           "path": "solutions/1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.cpp",
           "sha": "757577ec240a19f04fbc0c44f07bc9e0047969a6",
-          "lastSyncedAt": "2026-11-17T15:30:29.790Z"
+          "lastSyncedAt": "2026-11-17T15:52:56.961Z"
         }
       ]
     },
