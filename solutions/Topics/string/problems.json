@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-19T17:22:09.666Z",
+  "updatedAt": "2026-11-20T15:55:21.094Z",
   "problems": [
     {
       "frontendId": "3",
@@ -364,6 +364,26 @@
           "path": "solutions/2678-number-of-senior-citizens/2678-number-of-senior-citizens.cpp",
           "sha": "70e9287fcaf99f08f18fdcd6c37392ea0b2c1db3",
           "lastSyncedAt": "2026-11-17T15:52:33.509Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3110",
+      "title": "Score of a String",
+      "slug": "score-of-a-string",
+      "problemName": "3110-score-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-a-string/",
+      "folderPath": "solutions/3110-score-of-a-string/",
+      "readmePath": "solutions/3110-score-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3110-score-of-a-string.cpp",
+          "path": "solutions/3110-score-of-a-string/3110-score-of-a-string.cpp",
+          "sha": "daeda99d6d435ec3a4a50adb434269b85e2c80c8",
+          "lastSyncedAt": "2026-11-20T15:55:21.094Z"
         }
       ]
     },
