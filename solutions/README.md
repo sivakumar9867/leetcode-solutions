@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 133 | 106 | 23 | 4 |
+| 134 | 107 | 23 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 10 days | 10 days | 38 |
+| 1 days | 10 days | 39 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-04 | 4 |
 | 2026-11-05 | 2 |
 | 2026-11-06 | 2 |
 | 2026-11-09 | 1 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-18 | 1 |
 | 2026-11-19 | 1 |
 | 2026-11-20 | 1 |
+| 2026-11-22 | 1 |
 
 ## Top Tags
 
@@ -37,13 +37,13 @@ Contains topicwise list of solved problems.
 | Array | 72 | 54% |
 | Math | 49 | 37% |
 | Two Pointers | 28 | 21% |
-| Hash Table | 26 | 20% |
+| Hash Table | 26 | 19% |
 | Sorting | 24 | 18% |
 | String | 20 | 15% |
 | Binary Search | 13 | 10% |
 | Simulation | 12 | 9% |
 | Bit Manipulation | 11 | 8% |
-| Linked List | 10 | 8% |
+| Linked List | 10 | 7% |
 
 ## Topics
 
@@ -60,7 +60,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 3 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
-| [Design](Topics/design/) | 1 |
+| [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Enumeration](Topics/enumeration/) | 1 |
@@ -83,14 +83,14 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
-| [Queue](Topics/queue/) | 1 |
+| [Queue](Topics/queue/) | 2 |
 | [Recursion](Topics/recursion/) | 9 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 12 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 24 |
-| [Stack](Topics/stack/) | 6 |
+| [Stack](Topics/stack/) | 7 |
 | [String](Topics/string/) | 20 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
