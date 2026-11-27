@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 137 | 108 | 25 | 4 |
+| 138 | 108 | 26 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 10 days | 42 |
+| 4 days | 10 days | 43 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-11 | 3 |
 | 2026-11-12 | 1 |
 | 2026-11-13 | 1 |
 | 2026-11-14 | 1 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-11-24 | 1 |
 | 2026-11-25 | 1 |
 | 2026-11-26 | 1 |
+| 2026-11-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 74 | 54% |
+| Array | 75 | 54% |
 | Math | 49 | 36% |
 | Two Pointers | 29 | 21% |
-| Hash Table | 26 | 19% |
-| Sorting | 25 | 18% |
-| String | 20 | 15% |
+| Hash Table | 27 | 20% |
+| Sorting | 26 | 19% |
+| String | 21 | 15% |
 | Binary Search | 13 | 9% |
 | Simulation | 12 | 9% |
 | Bit Manipulation | 11 | 8% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 74 |
+| [Array](Topics/array/) | 75 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 13 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 11 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 5 |
-| [Hash Table](Topics/hash-table/) | 26 |
+| [Hash Table](Topics/hash-table/) | 27 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Interactive](Topics/interactive/) | 2 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
@@ -91,9 +91,9 @@ Contains topicwise list of solved problems.
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 12 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 25 |
+| [Sorting](Topics/sorting/) | 26 |
 | [Stack](Topics/stack/) | 7 |
-| [String](Topics/string/) | 20 |
+| [String](Topics/string/) | 21 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
