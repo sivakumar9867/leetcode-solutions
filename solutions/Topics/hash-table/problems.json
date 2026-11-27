@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-17T16:10:36.822Z",
+  "updatedAt": "2026-11-27T14:22:50.496Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "solutions/0041-first-missing-positive/0041-first-missing-positive.cpp",
           "sha": "925479af9a1a2df25536e8638b3aeeb21a9821d4",
           "lastSyncedAt": "2026-11-17T16:04:42.962Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "solutions/0049-group-anagrams/",
+      "readmePath": "solutions/0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0049-group-anagrams.cpp",
+          "path": "solutions/0049-group-anagrams/0049-group-anagrams.cpp",
+          "sha": "ca25ecbb8547118385761684ca9784ac1cc09e74",
+          "lastSyncedAt": "2026-11-27T14:22:50.496Z"
         }
       ]
     },
